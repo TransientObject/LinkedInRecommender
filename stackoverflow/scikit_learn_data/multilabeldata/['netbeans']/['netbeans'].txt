@@ -1,0 +1,1 @@
+Weird cursor and selection behavior in Netbeans - how to turn it off?

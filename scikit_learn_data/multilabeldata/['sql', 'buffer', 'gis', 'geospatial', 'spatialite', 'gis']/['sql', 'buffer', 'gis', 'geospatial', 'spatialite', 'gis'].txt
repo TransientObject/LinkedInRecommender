@@ -1,0 +1,1 @@
+GIS buffer value degree to meters with spatiallite

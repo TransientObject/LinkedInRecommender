@@ -1,0 +1,1 @@
+Setting proxy parameter in qgis plugins. How to

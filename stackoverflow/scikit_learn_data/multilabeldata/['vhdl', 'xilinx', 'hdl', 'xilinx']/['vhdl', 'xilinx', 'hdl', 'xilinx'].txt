@@ -1,0 +1,1 @@
+xilinx VHDL error 827 : Signal &lt;name&gt; cannot be synthesized

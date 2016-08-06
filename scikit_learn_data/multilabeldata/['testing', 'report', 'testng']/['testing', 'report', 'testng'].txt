@@ -1,0 +1,1 @@
+Customizing summary section of TestNG emailable report

@@ -1,0 +1,1 @@
+Where chef store the gem source repository?

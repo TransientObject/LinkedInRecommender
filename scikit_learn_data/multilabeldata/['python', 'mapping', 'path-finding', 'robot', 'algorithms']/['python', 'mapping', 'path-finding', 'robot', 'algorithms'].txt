@@ -1,0 +1,1 @@
+map representation for robot path finding algorithms

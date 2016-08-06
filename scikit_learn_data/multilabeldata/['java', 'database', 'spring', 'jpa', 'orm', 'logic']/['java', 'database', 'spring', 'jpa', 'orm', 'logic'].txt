@@ -1,0 +1,1 @@
+ORM with joins, logic and performance interrogations (using JPA and Spring)

@@ -1,0 +1,1 @@
+Converting logic gates to a purely NAND implementation, how come this is valid?

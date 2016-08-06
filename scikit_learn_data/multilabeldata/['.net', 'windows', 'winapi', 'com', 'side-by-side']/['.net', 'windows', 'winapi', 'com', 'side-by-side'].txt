@@ -1,0 +1,1 @@
+Can registration free COM be applied to a DLL?

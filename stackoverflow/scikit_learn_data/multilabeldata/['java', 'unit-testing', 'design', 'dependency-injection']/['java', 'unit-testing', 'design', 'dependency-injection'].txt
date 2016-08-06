@@ -1,0 +1,1 @@
+Preferable way of making code testable: Dependency injection vs encapsulation

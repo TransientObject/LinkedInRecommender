@@ -1,0 +1,1 @@
+How does ShareDrop (a website) get my LAN IP address?

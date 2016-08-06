@@ -1,0 +1,1 @@
+Creating object pipelines using dependency injection (Ninject)

@@ -1,0 +1,1 @@
+ATmega8 doesn&#39;t support JMP instruction

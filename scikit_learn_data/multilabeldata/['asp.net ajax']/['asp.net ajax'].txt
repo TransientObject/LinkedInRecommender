@@ -1,0 +1,1 @@
+Using the ASP.NET AJAX UpdatePanel with output caching

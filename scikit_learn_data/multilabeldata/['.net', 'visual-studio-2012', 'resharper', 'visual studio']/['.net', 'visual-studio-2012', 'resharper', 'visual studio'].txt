@@ -1,0 +1,1 @@
+Visual Studio 2012 and Resharper&#39;s goto implementation

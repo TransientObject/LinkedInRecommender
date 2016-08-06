@@ -1,0 +1,1 @@
+Is it possible to update a table in another Netezza database on same server?

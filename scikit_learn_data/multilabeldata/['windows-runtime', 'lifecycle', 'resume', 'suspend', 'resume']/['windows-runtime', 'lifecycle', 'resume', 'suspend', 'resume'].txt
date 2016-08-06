@@ -1,0 +1,1 @@
+WinRt: Suspend and Resume - when should I release my resources and allocate it again?

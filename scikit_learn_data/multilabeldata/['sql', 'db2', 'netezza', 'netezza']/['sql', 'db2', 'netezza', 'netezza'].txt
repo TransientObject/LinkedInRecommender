@@ -1,0 +1,1 @@
+convert db2 current timezone to netezza

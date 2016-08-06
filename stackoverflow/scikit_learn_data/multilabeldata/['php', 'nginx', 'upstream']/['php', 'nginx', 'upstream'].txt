@@ -1,0 +1,1 @@
+pstream prematurely closed connection while reading response header from upstream

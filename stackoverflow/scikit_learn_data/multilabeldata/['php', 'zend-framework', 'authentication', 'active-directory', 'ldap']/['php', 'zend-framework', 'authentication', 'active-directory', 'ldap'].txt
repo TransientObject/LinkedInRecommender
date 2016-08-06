@@ -1,0 +1,1 @@
+How to get user&#39;s group/s via Active Directory using ZendFramework 1

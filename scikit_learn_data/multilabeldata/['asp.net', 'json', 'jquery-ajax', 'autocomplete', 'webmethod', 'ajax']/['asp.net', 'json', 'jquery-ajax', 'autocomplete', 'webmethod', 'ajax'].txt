@@ -1,0 +1,1 @@
+Call a web method using jQuery Ajax

@@ -1,0 +1,1 @@
+how string.format syntax will be subjected to hacking

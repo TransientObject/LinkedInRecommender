@@ -1,0 +1,1 @@
+Exporting to Runnable jar with extra native code libraries in eclipse

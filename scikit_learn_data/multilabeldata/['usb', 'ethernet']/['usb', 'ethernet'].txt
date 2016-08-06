@@ -1,0 +1,1 @@
+How can there be gigabit ethernet adapters over USB 2.0 (with a max speed of 480mbps)?

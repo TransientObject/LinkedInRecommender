@@ -1,0 +1,1 @@
+Intelligent compilers can&#39;t prevent infinite loops and SQL Cartesian joins

@@ -1,0 +1,1 @@
+nested ng-mouseover in angularjs doesn&#39;t work

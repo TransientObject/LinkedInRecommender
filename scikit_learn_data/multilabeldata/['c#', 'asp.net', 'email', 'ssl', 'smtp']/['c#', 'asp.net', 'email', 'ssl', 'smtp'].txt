@@ -1,0 +1,1 @@
+How to send email without SMTP port, Host and enable SSL in asp.net C#?

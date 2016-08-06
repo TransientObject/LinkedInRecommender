@@ -1,0 +1,1 @@
+Breakpoint inside template function, Eclipse CDT Kepler

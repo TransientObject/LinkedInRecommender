@@ -1,0 +1,1 @@
+JD Edwards error &quot;Unknown JAS error has occurred. Please contact your system administrator.&quot;

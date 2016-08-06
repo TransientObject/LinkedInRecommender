@@ -1,0 +1,1 @@
+Nanogest gesture recognition api for ios

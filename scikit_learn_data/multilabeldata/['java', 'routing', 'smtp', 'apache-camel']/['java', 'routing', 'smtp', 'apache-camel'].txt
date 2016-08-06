@@ -1,0 +1,1 @@
+Send email to myself using SMTP and Apache Camel

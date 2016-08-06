@@ -1,0 +1,1 @@
+PHP: mail() function with runtime ini_set() for SMTP and SMTP_PORT not working on Linux

@@ -1,0 +1,1 @@
+Determine if CodeIgniter active record have set a WHERE-clause

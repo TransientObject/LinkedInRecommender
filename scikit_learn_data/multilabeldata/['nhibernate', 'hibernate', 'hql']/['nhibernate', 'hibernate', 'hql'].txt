@@ -1,0 +1,1 @@
+Using a CASE statement in HQL select

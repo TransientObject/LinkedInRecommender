@@ -1,0 +1,1 @@
+Can I access a Windows 8 .tlb whilst developing on Windows 7 and using VS 2010?

@@ -1,0 +1,1 @@
+Connect to MariaDB from Java application in NetBeans on Linux (Mageia)

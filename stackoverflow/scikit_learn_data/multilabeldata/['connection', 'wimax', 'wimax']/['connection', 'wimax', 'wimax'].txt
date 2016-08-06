@@ -1,0 +1,1 @@
+wimax client can not ping the base station

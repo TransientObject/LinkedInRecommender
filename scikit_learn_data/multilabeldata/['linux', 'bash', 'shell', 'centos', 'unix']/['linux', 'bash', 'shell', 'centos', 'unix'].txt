@@ -1,0 +1,1 @@
+CentOS, unix find out length of a LONG or INT via Command line

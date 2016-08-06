@@ -1,0 +1,1 @@
+Macro variable creation based on date value in SAS

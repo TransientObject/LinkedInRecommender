@@ -1,0 +1,1 @@
+Run tests automatically on file save when developing in visual studio

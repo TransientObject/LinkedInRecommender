@@ -1,0 +1,1 @@
+OCR in android ( java algorithm )

@@ -1,0 +1,1 @@
+I2C interrupts not firing after a while on OMAP L138

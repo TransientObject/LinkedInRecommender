@@ -1,0 +1,1 @@
+Why isn&#39;t loadposition working to load a module within a custom HTML module in Joomla 3.2?

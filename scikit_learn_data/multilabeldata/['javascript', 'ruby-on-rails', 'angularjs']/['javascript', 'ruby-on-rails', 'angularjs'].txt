@@ -1,0 +1,1 @@
+Rails - Saving a model with has_many :through association from AngularJS layer

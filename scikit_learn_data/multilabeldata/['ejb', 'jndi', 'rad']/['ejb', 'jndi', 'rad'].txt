@@ -1,0 +1,1 @@
+RAD 8.5 unable to run standalone java app that calls EJB and MQ

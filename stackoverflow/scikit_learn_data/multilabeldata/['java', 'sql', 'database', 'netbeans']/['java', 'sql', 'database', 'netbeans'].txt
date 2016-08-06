@@ -1,0 +1,1 @@
+Is there a way to add a local database to a netbeans java project package?

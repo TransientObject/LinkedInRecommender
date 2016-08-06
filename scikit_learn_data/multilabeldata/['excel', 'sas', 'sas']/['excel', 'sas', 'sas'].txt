@@ -1,0 +1,1 @@
+SAS truncating while exporting

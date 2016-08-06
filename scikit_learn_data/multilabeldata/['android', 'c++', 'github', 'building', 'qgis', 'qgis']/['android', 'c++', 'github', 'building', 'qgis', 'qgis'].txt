@@ -1,0 +1,1 @@
+open *.shp and *.tif failed in qgis for android

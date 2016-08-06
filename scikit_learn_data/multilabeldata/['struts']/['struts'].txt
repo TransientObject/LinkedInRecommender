@@ -1,0 +1,1 @@
+Integration of Struts 2 and Atmosphere (Action is not triggered)

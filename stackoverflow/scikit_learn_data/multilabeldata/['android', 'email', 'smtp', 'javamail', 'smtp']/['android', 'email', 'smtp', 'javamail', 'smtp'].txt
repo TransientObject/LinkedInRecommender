@@ -1,0 +1,1 @@
+javax.mail.MessagingException: Could not connect to SMTP host in Android while sending a Java mail with attachement

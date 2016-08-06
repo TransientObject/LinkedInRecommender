@@ -1,0 +1,1 @@
+Is it possible to create a flex contact form that submits data to salesforce.com as a new lead?

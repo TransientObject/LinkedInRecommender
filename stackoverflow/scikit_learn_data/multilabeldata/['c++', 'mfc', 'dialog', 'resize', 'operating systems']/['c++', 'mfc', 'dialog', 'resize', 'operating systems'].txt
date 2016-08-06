@@ -1,0 +1,1 @@
+Reposition dialog controls when resizing a dialog so that they are consistent between operating systems using mfc C++

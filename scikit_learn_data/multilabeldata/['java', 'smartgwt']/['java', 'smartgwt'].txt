@@ -1,0 +1,1 @@
+smart GWT error during fetch process from local file *.txt

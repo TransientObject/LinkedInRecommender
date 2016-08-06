@@ -1,0 +1,1 @@
+Java swing application look and feel appears different in netbeans and eclipse

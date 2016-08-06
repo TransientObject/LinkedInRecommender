@@ -1,0 +1,1 @@
+jquery events not working after dynamically adding elements with ajax call

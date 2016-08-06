@@ -1,0 +1,1 @@
+Java readymade bean/code for weather to be embedded into Java Swing App

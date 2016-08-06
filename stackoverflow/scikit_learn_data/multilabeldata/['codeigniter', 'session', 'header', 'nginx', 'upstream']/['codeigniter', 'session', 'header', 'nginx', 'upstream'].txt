@@ -1,0 +1,1 @@
+Upstream too big - nginx + codeigniter

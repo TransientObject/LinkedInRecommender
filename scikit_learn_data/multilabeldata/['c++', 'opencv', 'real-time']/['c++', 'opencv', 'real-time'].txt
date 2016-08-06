@@ -1,0 +1,1 @@
+Tracking text in real time application using opencv

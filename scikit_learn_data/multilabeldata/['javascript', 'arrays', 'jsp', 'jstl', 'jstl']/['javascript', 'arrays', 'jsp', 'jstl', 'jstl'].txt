@@ -1,0 +1,1 @@
+dynamically define JavaScript multidimensional arrays with JSTL

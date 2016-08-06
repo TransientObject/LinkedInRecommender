@@ -1,0 +1,1 @@
+Creating a macro variable have a list of dates in SAS

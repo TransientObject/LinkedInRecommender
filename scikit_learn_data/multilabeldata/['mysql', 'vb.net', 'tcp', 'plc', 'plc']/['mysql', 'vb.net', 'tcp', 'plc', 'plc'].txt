@@ -1,0 +1,1 @@
+VB.NET not able to read PLC registers, when connected to MySQL server installed on a 64 bit OS

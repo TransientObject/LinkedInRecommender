@@ -1,0 +1,1 @@
+Trouble creating a simple singleton class in Jersey 2 using built-in Jersey dependency injection

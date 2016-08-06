@@ -1,0 +1,1 @@
+Sharepoint 2013 site cannnot find page after modifying Framework64\v4.0.30319\web.config

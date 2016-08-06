@@ -1,0 +1,1 @@
+Are Wavefront *.obj Materials defined at Face or Group Levels?

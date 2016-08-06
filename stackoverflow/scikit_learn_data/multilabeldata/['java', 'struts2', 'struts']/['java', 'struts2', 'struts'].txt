@@ -1,0 +1,1 @@
+Why is ActionSupport in Struts a class and not an interface?

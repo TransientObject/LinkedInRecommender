@@ -1,0 +1,1 @@
+SignalR 2 Dependency Injection with Ninject

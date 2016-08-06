@@ -1,0 +1,1 @@
+Resources to help learn Windows kernel development in an operating systems class?

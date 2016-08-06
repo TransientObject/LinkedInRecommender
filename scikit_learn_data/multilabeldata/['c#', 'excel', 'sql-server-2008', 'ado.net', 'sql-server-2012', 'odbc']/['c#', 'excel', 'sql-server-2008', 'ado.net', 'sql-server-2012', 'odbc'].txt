@@ -1,0 +1,1 @@
+Could not connect to SQL Server but Excel and ODBC config can

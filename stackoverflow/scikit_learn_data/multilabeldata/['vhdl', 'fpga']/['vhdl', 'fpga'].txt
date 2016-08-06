@@ -1,0 +1,1 @@
+VHDL beginner - what&#39;s going wrong wrt to timing in this circuit?

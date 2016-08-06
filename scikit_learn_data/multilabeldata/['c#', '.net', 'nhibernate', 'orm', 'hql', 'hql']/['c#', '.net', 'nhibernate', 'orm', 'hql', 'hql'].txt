@@ -1,0 +1,1 @@
+Using NHibernate&#39;s HQL to make a query with multiple inner joins

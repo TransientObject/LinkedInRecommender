@@ -1,0 +1,1 @@
+Tuleap Agile Dashboard does not display correctly until refreshed

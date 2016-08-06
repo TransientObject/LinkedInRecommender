@@ -1,0 +1,1 @@
+Java service and hql queries - wavemaker 6.5

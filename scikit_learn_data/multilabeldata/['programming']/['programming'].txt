@@ -1,0 +1,1 @@
+Delphi - Programming Algorithm to find next point to draw component

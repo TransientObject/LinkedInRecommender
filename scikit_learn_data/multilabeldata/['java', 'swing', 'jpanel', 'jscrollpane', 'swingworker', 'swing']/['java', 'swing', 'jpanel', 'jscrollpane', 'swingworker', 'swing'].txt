@@ -1,0 +1,1 @@
+Why does my Swing application freeze a long time on JScrollPane.setViewportView?

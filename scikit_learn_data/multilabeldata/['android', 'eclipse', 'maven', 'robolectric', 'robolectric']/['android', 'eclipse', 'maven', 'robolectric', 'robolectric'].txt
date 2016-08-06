@@ -1,0 +1,1 @@
+install robolectric with maven and eclipse for android testing

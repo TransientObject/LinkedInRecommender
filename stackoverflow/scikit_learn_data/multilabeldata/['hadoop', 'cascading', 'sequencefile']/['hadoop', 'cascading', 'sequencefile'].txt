@@ -1,0 +1,1 @@
+How is the type for the key in a cascading SequenceFile determined?

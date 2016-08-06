@@ -1,0 +1,1 @@
+Is it possible to embed and execute VBScript within a batch file without using a temporary file?

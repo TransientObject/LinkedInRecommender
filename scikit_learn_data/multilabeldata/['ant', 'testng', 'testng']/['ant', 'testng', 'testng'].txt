@@ -1,0 +1,1 @@
+Suddenly can&#39;t run TestNG tests from ant ([testng] Caused by: java.lang.ClassNotFoundException: com.beust.jcommander.ParameterException)

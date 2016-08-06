@@ -1,0 +1,1 @@
+im getting this error message when importing joomla database. im using joomla 3.1.1 on wamp serve

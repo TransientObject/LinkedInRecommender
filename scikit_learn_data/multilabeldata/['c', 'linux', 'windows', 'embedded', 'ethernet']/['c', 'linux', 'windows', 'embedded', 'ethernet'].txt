@@ -1,0 +1,1 @@
+Ethernet plugged in a Linux machine while JTAG interface connected to a Windows machine for an Embedded board

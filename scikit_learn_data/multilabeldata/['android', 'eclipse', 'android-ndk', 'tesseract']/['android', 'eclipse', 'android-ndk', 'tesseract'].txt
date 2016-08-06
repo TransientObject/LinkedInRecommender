@@ -1,0 +1,1 @@
+Error Building Tesseract in Eclipse for Android Apps

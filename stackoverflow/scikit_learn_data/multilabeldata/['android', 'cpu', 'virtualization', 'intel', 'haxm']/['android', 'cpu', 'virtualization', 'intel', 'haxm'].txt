@@ -1,0 +1,1 @@
+Virtualization Technology Not Supported while Installing HAXM

@@ -1,0 +1,1 @@
+find modem corresponding ppp that connected with wvdial

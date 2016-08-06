@@ -1,0 +1,1 @@
+Getting PHP to access a 32-bit COM object in a 64-bit OS

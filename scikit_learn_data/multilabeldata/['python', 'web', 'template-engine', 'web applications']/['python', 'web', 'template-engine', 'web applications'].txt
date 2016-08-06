@@ -1,0 +1,1 @@
+Environment to create standalone web applications

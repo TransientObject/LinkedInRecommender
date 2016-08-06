@@ -1,0 +1,1 @@
+Reading Netezza database table from C# via ODBC not working in Windows 7

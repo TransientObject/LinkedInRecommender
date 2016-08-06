@@ -1,0 +1,1 @@
+How to run a ruby script by using chef with rbenv?

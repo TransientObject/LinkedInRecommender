@@ -1,0 +1,1 @@
+Sencha Touch&#39;s loadmask customization

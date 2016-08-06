@@ -1,0 +1,1 @@
+Netbeans 8 + maven + OpenJPA deployed to TomEE - enhancement fail

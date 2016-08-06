@@ -1,0 +1,1 @@
+Configure OpenMPI to run on a single machine (Debian/Linux)

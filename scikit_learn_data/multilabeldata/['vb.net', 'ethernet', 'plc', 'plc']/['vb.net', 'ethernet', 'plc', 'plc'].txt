@@ -1,0 +1,1 @@
+vb.net code for ethernet comunication for Fatek Fbs PLC

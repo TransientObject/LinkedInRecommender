@@ -1,0 +1,1 @@
+MySQL Query Optimization without Sub Query

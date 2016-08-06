@@ -1,0 +1,1 @@
+Testing direct S3 uploads in a Rails app

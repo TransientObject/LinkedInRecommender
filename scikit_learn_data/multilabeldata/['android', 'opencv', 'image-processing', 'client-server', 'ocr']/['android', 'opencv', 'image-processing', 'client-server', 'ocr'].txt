@@ -1,0 +1,1 @@
+Image denoising for OCR (Optical character recognisation)

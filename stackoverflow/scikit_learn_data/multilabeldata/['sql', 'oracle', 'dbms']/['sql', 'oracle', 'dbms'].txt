@@ -1,0 +1,1 @@
+Oracle DBMS - Read a table before processing Updating in an AFTER trigger - mutating table

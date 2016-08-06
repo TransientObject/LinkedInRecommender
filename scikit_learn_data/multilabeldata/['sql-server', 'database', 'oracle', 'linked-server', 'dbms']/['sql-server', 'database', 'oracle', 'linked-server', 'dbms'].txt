@@ -1,0 +1,1 @@
+linked server problem at sql server while connecting to oracle dbms

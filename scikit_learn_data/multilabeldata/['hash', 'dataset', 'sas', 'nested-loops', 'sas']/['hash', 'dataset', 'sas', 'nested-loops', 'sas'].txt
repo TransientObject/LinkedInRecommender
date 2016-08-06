@@ -1,0 +1,1 @@
+SAS name error when using a variable from a looping macro inside a hash dataset statement

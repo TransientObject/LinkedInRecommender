@@ -1,0 +1,1 @@
+Getting the value of a select box in jstl

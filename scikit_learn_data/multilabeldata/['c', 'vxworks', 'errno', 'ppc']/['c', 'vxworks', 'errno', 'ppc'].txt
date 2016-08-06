@@ -1,0 +1,1 @@
+errno returns zero always in VxWorks PPC

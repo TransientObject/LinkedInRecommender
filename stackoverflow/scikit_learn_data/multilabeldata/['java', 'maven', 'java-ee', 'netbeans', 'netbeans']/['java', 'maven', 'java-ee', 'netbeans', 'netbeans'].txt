@@ -1,0 +1,1 @@
+How to create maven wab (war as osgi bundle) project in netbeans 7.4?

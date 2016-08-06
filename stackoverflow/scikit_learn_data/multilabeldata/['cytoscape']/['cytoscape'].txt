@@ -1,0 +1,1 @@
+make jquery ui dialog on the top of cytoscape network

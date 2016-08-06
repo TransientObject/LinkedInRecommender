@@ -1,0 +1,1 @@
+OMAP 3 Linux I2C SMBUS SmartBattery (SBS) not Detected

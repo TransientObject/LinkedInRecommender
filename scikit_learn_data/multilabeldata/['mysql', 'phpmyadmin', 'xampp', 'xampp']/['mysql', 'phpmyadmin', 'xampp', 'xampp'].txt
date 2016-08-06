@@ -1,0 +1,1 @@
+Xampp 1.8.3.3 with phpmyadmin 4.1.8 phpMyAdmin configuration storage is not completely configured

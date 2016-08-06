@@ -1,0 +1,1 @@
+Do i have to open source a website code for example if I used some gpl2 jquery plugin?

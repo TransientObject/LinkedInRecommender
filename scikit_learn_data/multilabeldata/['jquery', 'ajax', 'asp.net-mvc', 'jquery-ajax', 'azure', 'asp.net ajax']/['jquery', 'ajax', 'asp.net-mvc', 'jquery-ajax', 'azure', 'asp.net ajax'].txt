@@ -1,0 +1,1 @@
+mvc asp.net ajax redirects to partial view but displays true in a blank page

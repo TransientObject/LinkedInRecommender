@@ -1,0 +1,1 @@
+Enterprise Architect code generation templates: import hierarchical package structure as a string

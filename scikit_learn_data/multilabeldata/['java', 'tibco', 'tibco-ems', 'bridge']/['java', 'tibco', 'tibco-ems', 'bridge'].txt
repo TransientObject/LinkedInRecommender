@@ -1,0 +1,1 @@
+tibco static bridge queue vs static durable

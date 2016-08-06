@@ -1,0 +1,1 @@
+Connection to SMTP server via PHPMailer

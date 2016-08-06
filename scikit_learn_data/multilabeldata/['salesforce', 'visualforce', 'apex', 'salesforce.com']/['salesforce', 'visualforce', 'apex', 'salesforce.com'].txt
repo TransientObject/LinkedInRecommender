@@ -1,0 +1,1 @@
+On Salesforce.com can you filter an apex:pageBlockTable by RecordType?

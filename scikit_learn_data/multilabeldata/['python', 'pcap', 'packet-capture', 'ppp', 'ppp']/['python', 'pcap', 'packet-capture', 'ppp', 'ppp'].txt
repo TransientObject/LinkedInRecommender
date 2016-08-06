@@ -1,0 +1,1 @@
+How can I capture packets from a PPP interface with pypcap?

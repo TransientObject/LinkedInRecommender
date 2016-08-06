@@ -1,0 +1,1 @@
+Starting services from PHP, file permissions, shell scripting

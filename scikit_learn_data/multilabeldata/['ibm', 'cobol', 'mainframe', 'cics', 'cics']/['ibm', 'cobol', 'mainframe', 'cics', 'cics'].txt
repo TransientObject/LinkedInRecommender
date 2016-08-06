@@ -1,0 +1,1 @@
+CICS EXCI Transaction CSMI abend ASRA

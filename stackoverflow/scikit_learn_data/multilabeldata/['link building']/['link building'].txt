@@ -1,0 +1,1 @@
+Custom IRouteHandler route screws up MVC link building

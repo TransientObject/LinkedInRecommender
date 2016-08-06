@@ -1,0 +1,1 @@
+JDBC weblogic XA error: XAResource.XAER_RMERR

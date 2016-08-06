@@ -1,0 +1,1 @@
+Pulling revenue data from a Google Analytics e-commerce snippet into another revenue tracking snippet

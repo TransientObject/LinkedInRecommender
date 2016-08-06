@@ -1,0 +1,1 @@
+How do you &#39;require&#39; an attribute on an angularjs directive?

@@ -1,0 +1,1 @@
+Is the order of operations in a constructor guaranteed?

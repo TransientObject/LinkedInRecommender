@@ -1,0 +1,1 @@
+Stock symbol search engine for Rails app on heroku

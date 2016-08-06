@@ -1,0 +1,1 @@
+ATL COM Library Strange Class Not Registered Error

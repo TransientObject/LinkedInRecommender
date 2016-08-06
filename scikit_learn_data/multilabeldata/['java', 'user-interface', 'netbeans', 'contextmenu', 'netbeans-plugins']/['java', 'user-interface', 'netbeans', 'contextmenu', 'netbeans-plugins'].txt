@@ -1,0 +1,1 @@
+How do I add an Action to a Project Node when writing a Netbeans plugin module

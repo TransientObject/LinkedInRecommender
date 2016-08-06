@@ -1,0 +1,1 @@
+Eclipse Kepler + maven + websphere 8.5 + JAX-WS

@@ -1,0 +1,1 @@
+Autoit script to automate the audacity track down menu with dynamic mouseclick

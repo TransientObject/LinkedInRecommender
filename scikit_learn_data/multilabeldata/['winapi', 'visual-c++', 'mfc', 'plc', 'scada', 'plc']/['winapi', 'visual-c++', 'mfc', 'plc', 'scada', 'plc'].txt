@@ -1,0 +1,1 @@
+connecting PLC to my mfc program

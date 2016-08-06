@@ -1,0 +1,1 @@
+libpango-1.0.dylib has no table of contents on Mac OS X 10.5 PPC

@@ -1,0 +1,1 @@
+JQuery UI or JQuery Mobile transitions for responsive SPA web UI

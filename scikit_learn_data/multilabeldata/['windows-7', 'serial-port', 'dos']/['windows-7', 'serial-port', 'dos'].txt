@@ -1,0 +1,1 @@
+DOS command for opening serial port in Windows 7

@@ -1,0 +1,1 @@
+New Everyplay SDK alert on beta adhoc build in Unity3D for iOS

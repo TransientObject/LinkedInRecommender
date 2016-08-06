@@ -1,0 +1,1 @@
+UML Sequence Diagram - Actors as Objects? Is it valid?

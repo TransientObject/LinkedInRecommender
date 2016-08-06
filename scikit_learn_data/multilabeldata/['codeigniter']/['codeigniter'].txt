@@ -1,0 +1,1 @@
+Testing a CodeIgniter 2.1 controller with PHPUnit

@@ -1,0 +1,1 @@
+AWS, OpsWorks and Chef dependencies: what&#39;s the cleanest solution?

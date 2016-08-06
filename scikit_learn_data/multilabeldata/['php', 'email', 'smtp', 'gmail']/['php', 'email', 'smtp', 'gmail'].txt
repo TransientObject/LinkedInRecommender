@@ -1,0 +1,1 @@
+SMTP connect() failed error in php while sending mail

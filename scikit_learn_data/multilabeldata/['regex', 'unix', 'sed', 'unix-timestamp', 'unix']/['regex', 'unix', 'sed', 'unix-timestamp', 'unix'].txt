@@ -1,0 +1,1 @@
+print line number, first few characters of matching line and nth line after matching UNIX

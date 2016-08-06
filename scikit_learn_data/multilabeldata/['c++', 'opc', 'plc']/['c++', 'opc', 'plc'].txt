@@ -1,0 +1,1 @@
+How to send string from Twincat PLC OPC UA server to unified automation OPC UA C++ Client program

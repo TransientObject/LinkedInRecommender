@@ -1,0 +1,1 @@
+Is there a better pattern for this? ASP.NET AJAX to controller to javascript editing view

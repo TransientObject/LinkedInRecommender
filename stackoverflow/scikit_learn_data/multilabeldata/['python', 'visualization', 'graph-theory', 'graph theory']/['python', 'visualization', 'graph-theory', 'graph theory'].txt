@@ -1,0 +1,1 @@
+comparable alternative to Nodebox for a graph theory project using Python? (fancy graph visualization with gradient, shadowstroke and so on)

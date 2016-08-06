@@ -1,0 +1,1 @@
+How bridge pattern help for decoupling the implmentation and avoid recompiling on client side

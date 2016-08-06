@@ -1,0 +1,1 @@
+Linux 3.8: omap serial driver : write data sliced in two = why?

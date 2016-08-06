@@ -1,0 +1,1 @@
+LauterBach debugging in trace32 : Is there a way to set a data breakpoint for a local variable before entering the context?

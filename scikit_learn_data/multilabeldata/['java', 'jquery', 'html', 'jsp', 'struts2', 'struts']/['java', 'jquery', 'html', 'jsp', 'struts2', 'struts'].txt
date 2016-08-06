@@ -1,0 +1,1 @@
+About html tags in Struts 2 framework

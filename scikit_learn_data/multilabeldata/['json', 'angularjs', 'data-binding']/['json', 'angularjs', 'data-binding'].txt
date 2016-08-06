@@ -1,0 +1,1 @@
+AngularJS updating the contents on select

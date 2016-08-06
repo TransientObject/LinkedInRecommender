@@ -1,0 +1,1 @@
+How to insert data taken from user into mysql using jdbc

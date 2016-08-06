@@ -1,0 +1,1 @@
+how to send vars to php code in actionscript

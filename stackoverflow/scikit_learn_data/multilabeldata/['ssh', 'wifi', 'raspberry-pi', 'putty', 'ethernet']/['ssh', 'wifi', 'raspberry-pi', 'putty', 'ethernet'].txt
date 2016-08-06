@@ -1,0 +1,1 @@
+Raspberry pi unable to connect to internet with wifi shared over ethernet

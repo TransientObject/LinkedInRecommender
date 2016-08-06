@@ -1,0 +1,1 @@
+Jquery mobile editor for django templates environment

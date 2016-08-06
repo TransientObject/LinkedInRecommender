@@ -1,0 +1,1 @@
+How to &quot;lock&quot; excel while interacting via COM

@@ -1,0 +1,1 @@
+Grails Spring Security: Need if/else logic in GSPs based on user

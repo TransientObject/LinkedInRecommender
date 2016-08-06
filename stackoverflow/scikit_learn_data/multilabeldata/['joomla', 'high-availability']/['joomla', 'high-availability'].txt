@@ -1,0 +1,1 @@
+Joomla High availability environment on AWS - Shifting sessions

@@ -1,0 +1,1 @@
+Ajax auto updation of time and date in social networking site

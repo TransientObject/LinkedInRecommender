@@ -1,0 +1,1 @@
+JavascriptMVC folder structure imports unnecessary file

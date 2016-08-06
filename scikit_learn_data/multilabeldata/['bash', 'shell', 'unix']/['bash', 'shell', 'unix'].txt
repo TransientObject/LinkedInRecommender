@@ -1,0 +1,1 @@
+finding particular word in each line and display result in unix shell scripting

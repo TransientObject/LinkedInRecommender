@@ -1,0 +1,1 @@
+Is the packets loss caused by LAN or WAN? Its very confusing any idea?

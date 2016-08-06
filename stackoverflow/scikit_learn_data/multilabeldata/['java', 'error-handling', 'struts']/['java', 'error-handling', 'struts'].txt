@@ -1,0 +1,1 @@
+How to build a Struts custom error page with exception details and sendmail button

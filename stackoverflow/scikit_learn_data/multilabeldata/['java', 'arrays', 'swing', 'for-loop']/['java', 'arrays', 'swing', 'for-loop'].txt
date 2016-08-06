@@ -1,0 +1,1 @@
+Creating a line in Java Swing that is the length of an int in an array

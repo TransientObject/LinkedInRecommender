@@ -1,0 +1,1 @@
+Show ip address when os boot

@@ -1,0 +1,1 @@
+Change color after Success query of jquery ajax

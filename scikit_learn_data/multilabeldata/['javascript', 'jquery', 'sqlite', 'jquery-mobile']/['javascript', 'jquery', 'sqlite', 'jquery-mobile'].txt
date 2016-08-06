@@ -1,0 +1,1 @@
+Duplicate autodividers when selecting from sqlite - jQuery mobile

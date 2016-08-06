@@ -1,0 +1,1 @@
+AngularJS - ng-style does not trigger digest process

@@ -1,0 +1,1 @@
+Conflict with activity tags on android manifest: Facebook and Prime31 plugins in Unity3d

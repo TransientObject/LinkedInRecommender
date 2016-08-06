@@ -1,0 +1,1 @@
+CodeIgniter How to access session variables in twig templates

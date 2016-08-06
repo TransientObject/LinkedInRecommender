@@ -1,0 +1,1 @@
+Android unit test Robolectric Maven : The method buildActivity(Class&lt;MyActivity&gt;) is undefined for the type Robolectric

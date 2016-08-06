@@ -1,0 +1,1 @@
+Is the CPU blocked while multiple DMA transfers are in progress on OMAP 4460?

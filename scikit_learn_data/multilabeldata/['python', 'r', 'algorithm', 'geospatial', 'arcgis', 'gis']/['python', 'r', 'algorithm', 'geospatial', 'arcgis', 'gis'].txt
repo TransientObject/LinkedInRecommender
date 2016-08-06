@@ -1,0 +1,1 @@
+GIS zonal statistics &quot;area-weighted max&quot; or similar stat

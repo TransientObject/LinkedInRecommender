@@ -1,0 +1,1 @@
+angularjs custom directive isolated scope one way data binding doesn&#39;t work

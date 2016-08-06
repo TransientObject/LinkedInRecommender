@@ -1,0 +1,1 @@
+In ACID is C the responsibility of the DBMS implementation?

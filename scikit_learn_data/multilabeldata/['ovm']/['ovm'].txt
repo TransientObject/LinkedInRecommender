@@ -1,0 +1,1 @@
+How can I delete and deallocate OVM objects in SystemVerilog?

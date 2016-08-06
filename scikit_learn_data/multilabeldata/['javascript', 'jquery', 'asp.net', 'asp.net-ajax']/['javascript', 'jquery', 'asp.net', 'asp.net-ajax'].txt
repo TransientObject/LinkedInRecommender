@@ -1,0 +1,1 @@
+jQuery selectable causes full postback in ASP.NET Ajax application

@@ -1,0 +1,1 @@
+Automatic code generation from a C# class to JavaScript equivalent

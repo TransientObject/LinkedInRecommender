@@ -1,0 +1,1 @@
+Combobox empty in Windows XP but not in Windows 7

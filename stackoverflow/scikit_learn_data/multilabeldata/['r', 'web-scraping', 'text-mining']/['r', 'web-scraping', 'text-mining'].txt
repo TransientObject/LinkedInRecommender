@@ -1,0 +1,1 @@
+Collating IRC archives into a corpus for text mining

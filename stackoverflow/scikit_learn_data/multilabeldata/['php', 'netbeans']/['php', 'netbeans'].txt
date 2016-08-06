@@ -1,0 +1,1 @@
+&quot;Do not Access Superglobal $_REQUEST Array Directly.&quot; Netbeans 8.0 PHP

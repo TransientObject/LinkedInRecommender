@@ -1,0 +1,1 @@
+Why this simple hql query doesn&#39;t work? uncategorized SQLException

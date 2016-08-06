@@ -1,0 +1,1 @@
+Grails: Convert the Hql query to GORM

@@ -1,0 +1,1 @@
+Responsive design works on Mobile but does not adapt when resizing the screen

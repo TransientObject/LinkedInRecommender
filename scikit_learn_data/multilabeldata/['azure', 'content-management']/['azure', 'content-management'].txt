@@ -1,0 +1,1 @@
+Azure components for photo / video content management

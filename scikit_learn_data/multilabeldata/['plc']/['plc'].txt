@@ -1,0 +1,1 @@
+Determine whether Siemens S7 400 PLC has Memory card from Project

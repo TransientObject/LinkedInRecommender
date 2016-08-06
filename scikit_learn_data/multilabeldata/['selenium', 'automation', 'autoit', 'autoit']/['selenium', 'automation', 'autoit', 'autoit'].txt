@@ -1,0 +1,1 @@
+AutoIT Window Info Tool not working properly with dialog boxes of Windows

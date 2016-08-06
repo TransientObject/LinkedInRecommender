@@ -1,0 +1,1 @@
+Binding to BitmapImage retrieved from Active Directory not working

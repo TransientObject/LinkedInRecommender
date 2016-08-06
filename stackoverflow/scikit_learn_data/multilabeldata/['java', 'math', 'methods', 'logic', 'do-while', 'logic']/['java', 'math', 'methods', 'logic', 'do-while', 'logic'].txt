@@ -1,0 +1,1 @@
+Logic or Syntax Error Issue (In a VERY primitive turn based simiulation *EDITED*)

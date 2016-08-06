@@ -1,0 +1,1 @@
+How do i connect to jdbc derby in netbeans on a MAC

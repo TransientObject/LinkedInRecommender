@@ -1,0 +1,1 @@
+Testing render_template with Rails 4

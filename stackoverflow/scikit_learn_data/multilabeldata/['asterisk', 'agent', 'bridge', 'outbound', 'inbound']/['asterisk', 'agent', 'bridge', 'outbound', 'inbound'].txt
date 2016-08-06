@@ -1,0 +1,1 @@
+Asterisk: Create an outbound call and bridge it with a current active inbound channel

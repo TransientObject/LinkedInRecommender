@@ -1,0 +1,1 @@
+Setting session based NLS_NUMERIC_CHARACTERS in Oracle Reports

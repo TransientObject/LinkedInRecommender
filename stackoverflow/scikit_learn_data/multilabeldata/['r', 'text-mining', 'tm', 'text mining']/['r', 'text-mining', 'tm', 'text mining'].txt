@@ -1,0 +1,1 @@
+Text mining with r package tm(): &quot;Error in if (vectorized &amp;&amp; (length &lt;= 0))&quot;

@@ -1,0 +1,1 @@
+SQL query filled tempdb after 12.5 hours - optimization required

@@ -1,0 +1,1 @@
+How do c/c++ compilers know which line an error is on

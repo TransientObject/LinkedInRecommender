@@ -1,0 +1,1 @@
+Use Eclipse as Gnome Extension IDE

@@ -1,0 +1,1 @@
+SQL Server business intelligence - Securing a Cube Based On Organization departments hierarchy

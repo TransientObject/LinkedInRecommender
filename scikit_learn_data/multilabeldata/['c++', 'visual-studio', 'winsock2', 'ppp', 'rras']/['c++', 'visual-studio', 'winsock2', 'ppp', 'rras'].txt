@@ -1,0 +1,1 @@
+Get a disconnected PPP interface using GetAdaptersAddresses (IPHlpApi.h)

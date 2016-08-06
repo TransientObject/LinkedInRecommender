@@ -1,0 +1,1 @@
+Testing association validations with RSpec and FactoryGirl

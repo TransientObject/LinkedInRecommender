@@ -1,0 +1,1 @@
+Gmail SMTP debug: error &quot;please log in via your web browser&quot;

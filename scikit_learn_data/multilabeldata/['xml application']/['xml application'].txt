@@ -1,0 +1,1 @@
+How can I generate XML application configuration using Zend_Tool?

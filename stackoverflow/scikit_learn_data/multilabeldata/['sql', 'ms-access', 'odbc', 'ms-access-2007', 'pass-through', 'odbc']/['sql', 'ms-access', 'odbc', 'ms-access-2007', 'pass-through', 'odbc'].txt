@@ -1,0 +1,1 @@
+MS-ACCESS Delete Rows in ODBC Linked Table via &quot;Pass-Through&quot;

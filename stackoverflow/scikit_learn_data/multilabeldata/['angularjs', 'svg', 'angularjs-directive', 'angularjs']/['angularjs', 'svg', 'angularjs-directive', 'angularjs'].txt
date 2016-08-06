@@ -1,0 +1,1 @@
+AngularJS creating HTMLElements instead of SVGElements

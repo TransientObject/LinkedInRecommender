@@ -1,0 +1,1 @@
+How to open search result page in new window for javascript search engine which works in IE?

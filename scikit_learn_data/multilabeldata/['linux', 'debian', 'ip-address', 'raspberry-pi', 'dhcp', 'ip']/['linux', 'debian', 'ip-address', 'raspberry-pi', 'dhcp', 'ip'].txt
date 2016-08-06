@@ -1,0 +1,1 @@
+Changing IP Address from static to DHCP in Debian

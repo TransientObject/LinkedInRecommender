@@ -1,0 +1,1 @@
+What data sync framework to use: ODBC -&gt; SQL or ODBC -&gt; REST/SOAP

@@ -1,0 +1,1 @@
+Gstreamer 1.2.4.1 windows build. Gstreamer Editing Services Examples on Windows Visual Studio 2012

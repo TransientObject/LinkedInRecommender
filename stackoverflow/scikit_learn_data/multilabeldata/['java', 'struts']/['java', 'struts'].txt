@@ -1,0 +1,1 @@
+Struts : Using Logic Iterate but not getting the updated list value in Action

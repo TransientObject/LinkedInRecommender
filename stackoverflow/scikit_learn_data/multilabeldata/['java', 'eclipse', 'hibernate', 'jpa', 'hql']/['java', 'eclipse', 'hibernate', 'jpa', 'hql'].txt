@@ -1,0 +1,1 @@
+Eclipse show erro in HQL NamedQueries but Application Works

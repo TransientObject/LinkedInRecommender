@@ -1,0 +1,1 @@
+Java: given a base ip address and a network mask, check if an ip address belong to the allowed hosts addresses

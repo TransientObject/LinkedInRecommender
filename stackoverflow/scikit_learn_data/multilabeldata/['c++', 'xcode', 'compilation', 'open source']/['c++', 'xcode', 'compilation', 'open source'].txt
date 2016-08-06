@@ -1,0 +1,1 @@
+I am trying to compile in xcode an open source game called supertux but I keep getting file not found errors

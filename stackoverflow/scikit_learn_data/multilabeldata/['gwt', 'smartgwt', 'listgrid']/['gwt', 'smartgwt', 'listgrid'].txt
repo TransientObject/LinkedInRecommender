@@ -1,0 +1,1 @@
+Smart GWT listgrid, how to expand and row span at the same time

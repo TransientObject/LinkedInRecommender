@@ -1,0 +1,1 @@
+Why $$PWD instead of $PWD in TI x-loader makefile for omap devices

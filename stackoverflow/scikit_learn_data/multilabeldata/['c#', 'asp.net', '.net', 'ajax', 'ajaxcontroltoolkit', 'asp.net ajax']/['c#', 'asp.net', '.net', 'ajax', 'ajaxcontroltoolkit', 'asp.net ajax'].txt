@@ -1,0 +1,1 @@
+ASP.NET Ajax history point retained even after a Response.Redirect

@@ -1,0 +1,1 @@
+How do I use a chef recipe that&#39;s defined in terms of roles if I&#39;m not using roles?

@@ -1,0 +1,1 @@
+is design compiler&amp; encounter is for ASIC design and quartus&amp;modelsim is for FPGA design?

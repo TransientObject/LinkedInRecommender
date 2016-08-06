@@ -1,0 +1,1 @@
+Is it possible to inform compilers that it&#39;s safe to move an IF outside a loop?

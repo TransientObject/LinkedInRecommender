@@ -1,0 +1,1 @@
+jQuery Mobile Loader Widget shows no animation when loaded from Google&#39;s CDN

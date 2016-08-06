@@ -1,0 +1,1 @@
+How to test final Chef server configuration with the help of community cookbooks?

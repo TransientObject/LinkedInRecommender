@@ -1,0 +1,1 @@
+Typical scheduling time quantum in modern operating systems

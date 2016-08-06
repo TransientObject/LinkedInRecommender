@@ -1,0 +1,1 @@
+Java benchmarking - why is the second loop faster?

@@ -1,0 +1,1 @@
+Chef server on Azure HTTP redirect

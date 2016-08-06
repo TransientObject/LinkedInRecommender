@@ -1,0 +1,1 @@
+Connect R and Netezza using RJDBC

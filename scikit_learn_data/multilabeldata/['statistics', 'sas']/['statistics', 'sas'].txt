@@ -1,0 +1,1 @@
+How does one perform the Fligner-Policello test in SAS using NPAR1WAY?

@@ -1,0 +1,1 @@
+creating Unix script to check for directories and subdirectories in

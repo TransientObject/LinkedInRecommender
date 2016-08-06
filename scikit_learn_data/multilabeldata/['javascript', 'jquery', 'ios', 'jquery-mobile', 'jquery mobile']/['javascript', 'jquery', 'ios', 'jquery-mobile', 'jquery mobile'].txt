@@ -1,0 +1,1 @@
+Prevent click event after handling jQuery Mobile tap event on iOS

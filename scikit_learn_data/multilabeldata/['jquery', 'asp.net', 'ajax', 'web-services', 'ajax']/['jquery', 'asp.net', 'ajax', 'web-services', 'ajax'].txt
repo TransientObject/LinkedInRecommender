@@ -1,0 +1,1 @@
+Providing proxy credentials for AJAX Webservice call using jQuery

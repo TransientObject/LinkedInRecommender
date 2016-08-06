@@ -1,0 +1,1 @@
+Can AutoIt scripts run as a scheduled task while not logged in?

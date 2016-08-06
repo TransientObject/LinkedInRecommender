@@ -1,0 +1,1 @@
+Error in VHDL (Xilinx): failed to link the design

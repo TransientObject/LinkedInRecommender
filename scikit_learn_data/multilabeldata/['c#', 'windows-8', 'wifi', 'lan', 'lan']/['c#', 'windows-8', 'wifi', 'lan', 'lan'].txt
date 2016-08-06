@@ -1,0 +1,1 @@
+Checking WIFI connection on Windows 8 when LAN is OFF

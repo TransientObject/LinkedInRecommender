@@ -1,0 +1,1 @@
+Proper ODBC Connection string syntax

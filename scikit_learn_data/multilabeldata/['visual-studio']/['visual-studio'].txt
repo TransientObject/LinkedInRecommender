@@ -1,0 +1,1 @@
+Visual Studio crash accessing source control. &quot;some reload or shell operations were canceled&quot;

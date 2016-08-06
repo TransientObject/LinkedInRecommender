@@ -1,0 +1,1 @@
+How to solve java.lang.UnsatisfiedLinkError: no AspriseOCR in java.library.path in netbeans

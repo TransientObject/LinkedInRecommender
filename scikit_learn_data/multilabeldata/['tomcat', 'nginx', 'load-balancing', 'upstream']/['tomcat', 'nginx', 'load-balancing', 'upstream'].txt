@@ -1,0 +1,1 @@
+Tomcat user can not login to the tomcat-manager web after load balance with Nginx Upstream module

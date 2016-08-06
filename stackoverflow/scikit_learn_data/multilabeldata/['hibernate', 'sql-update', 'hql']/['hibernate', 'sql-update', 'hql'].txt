@@ -1,0 +1,1 @@
+how to bulk update in Hibernate using HQL

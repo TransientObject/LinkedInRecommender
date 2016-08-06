@@ -1,0 +1,1 @@
+how to find if two verilog modules are connected using VPI PLI - Verilog VCS

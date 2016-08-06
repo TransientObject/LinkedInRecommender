@@ -1,0 +1,1 @@
+How to use AJAX to perform a MYSQLI query (prepared statement)

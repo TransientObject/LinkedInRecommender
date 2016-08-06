@@ -1,0 +1,1 @@
+ASP.NET Ajax client-side framework failed to load. when put the ScriptManager on a blank page

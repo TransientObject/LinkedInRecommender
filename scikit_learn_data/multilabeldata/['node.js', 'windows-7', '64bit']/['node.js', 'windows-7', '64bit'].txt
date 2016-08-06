@@ -1,0 +1,1 @@
+Rollback on node.js install on Windows 7 x64 PC

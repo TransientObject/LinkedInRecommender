@@ -1,0 +1,1 @@
+Using asp.net ajax client side framework on a bare-bones HTML page

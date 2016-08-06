@@ -1,0 +1,1 @@
+&quot;Unable to Relay&quot; error while sending mail from Struts application using exchange server

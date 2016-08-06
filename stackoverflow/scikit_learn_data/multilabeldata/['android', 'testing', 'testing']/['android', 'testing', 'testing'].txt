@@ -1,0 +1,1 @@
+When testing android UI what&#39;s the proper way of waiting for UI to be ready?

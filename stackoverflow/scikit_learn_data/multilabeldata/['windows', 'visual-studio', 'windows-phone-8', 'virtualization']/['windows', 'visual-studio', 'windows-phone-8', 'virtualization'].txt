@@ -1,0 +1,1 @@
+Enabling virtualization in BIOS causes Windows to stuck at booting

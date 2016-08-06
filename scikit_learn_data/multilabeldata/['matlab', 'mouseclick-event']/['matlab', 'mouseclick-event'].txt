@@ -1,0 +1,1 @@
+Program that gets x and y coordinates in a MATLAB GUI when clicked

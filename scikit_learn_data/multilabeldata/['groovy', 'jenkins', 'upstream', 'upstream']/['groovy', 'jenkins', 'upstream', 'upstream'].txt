@@ -1,0 +1,1 @@
+How to get upstream build object of running build in Jenkins with Groovy?

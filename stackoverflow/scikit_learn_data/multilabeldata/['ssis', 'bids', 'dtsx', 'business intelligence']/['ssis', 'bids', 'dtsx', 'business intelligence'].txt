@@ -1,0 +1,1 @@
+Business Intelligence Development Studio stuck Validating a task in a dtsx file

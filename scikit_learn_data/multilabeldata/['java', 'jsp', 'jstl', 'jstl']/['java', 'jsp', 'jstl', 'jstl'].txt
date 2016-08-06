@@ -1,0 +1,1 @@
+Below JSTL code is not working properly .Not giving the result.It is only printing this (--select--) option value

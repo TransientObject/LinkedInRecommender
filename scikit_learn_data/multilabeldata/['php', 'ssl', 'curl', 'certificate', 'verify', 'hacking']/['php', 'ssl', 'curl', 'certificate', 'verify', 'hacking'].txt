@@ -1,0 +1,1 @@
+Not hacking CurlException: 60 (cURL SSL Certificate Verification)

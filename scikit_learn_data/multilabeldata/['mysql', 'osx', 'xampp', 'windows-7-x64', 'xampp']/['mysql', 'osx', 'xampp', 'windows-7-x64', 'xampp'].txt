@@ -1,0 +1,1 @@
+How can I share MySQL of XAMPP between windows 7 and MacOS

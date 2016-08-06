@@ -1,0 +1,1 @@
+Benchmarking the time of AJAX Requests gets added up when interval between them is to low

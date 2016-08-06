@@ -1,0 +1,1 @@
+Going through JavascriptMVC &#39;rapid start&#39; tutorial getting a 403 error

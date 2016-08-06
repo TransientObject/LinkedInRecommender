@@ -1,0 +1,1 @@
+how to plot signal data flow graph in matlab from structures and arrays

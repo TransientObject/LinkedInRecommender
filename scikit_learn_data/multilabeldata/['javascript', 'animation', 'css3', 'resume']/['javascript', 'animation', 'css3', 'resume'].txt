@@ -1,0 +1,1 @@
+How to pause and resume CSS3 animation using JavaScript?

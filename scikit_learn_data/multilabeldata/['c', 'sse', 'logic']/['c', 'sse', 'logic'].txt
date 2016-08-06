@@ -1,0 +1,1 @@
+Is naive ladder logic better than factored logic?

@@ -1,0 +1,1 @@
+When not to use RAII for resource management

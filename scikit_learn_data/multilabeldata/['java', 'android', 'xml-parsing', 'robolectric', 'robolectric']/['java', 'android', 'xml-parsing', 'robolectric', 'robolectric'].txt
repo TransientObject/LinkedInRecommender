@@ -1,0 +1,1 @@
+Error trying to test XML parsing with Robolectric

@@ -1,0 +1,1 @@
+qGIS 2.2 and Anaconda on mac

@@ -1,0 +1,1 @@
+What are the best Java code generation tools or plugins to use in Eclipse?

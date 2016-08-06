@@ -1,0 +1,1 @@
+ActiveMQ forwarding bridge with failover

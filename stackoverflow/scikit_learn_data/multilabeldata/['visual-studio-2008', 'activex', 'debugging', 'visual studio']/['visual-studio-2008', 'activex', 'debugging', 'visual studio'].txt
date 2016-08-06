@@ -1,0 +1,1 @@
+Can no longer debug ActiveX controls in Visual Studio 2008

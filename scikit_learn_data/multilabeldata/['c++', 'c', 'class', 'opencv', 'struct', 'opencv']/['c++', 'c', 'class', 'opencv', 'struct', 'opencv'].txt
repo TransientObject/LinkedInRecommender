@@ -1,0 +1,1 @@
+Why is DMatch in OpenCV a struct and not a class

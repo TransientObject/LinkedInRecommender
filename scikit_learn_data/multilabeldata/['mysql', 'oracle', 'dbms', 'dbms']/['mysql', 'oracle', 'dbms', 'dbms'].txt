@@ -1,0 +1,1 @@
+about foreign key constraints in mysql or other DBMS

@@ -1,0 +1,1 @@
+Could not execute JDBC batch update; uncategorized SQLException for SQL

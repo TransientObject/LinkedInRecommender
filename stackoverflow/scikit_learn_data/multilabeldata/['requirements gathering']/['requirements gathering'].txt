@@ -1,0 +1,1 @@
+Use Case diagrams as a requirements gathering tool for new functionality - particularly in systems that only require very little user interaction

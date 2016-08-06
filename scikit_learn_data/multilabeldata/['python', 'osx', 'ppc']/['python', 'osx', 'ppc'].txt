@@ -1,0 +1,1 @@
+numpy with a Mac ppc G4

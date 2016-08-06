@@ -1,0 +1,1 @@
+Problems with UTF-8/ISO-8859-1 encoding on Windows --&gt; Unix

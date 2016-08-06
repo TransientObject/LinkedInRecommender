@@ -1,0 +1,1 @@
+Maintaining divs side-by-side in responsive design

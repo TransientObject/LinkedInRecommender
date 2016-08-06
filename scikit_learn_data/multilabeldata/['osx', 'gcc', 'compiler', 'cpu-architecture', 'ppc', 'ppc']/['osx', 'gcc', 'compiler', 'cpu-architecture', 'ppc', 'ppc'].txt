@@ -1,0 +1,1 @@
+Compiling for both Intel and PPC CPUs on OSX

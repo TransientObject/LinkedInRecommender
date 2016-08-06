@@ -1,0 +1,1 @@
+Turn a simple C# DLL into a COM interop component

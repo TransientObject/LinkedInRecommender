@@ -1,0 +1,1 @@
+Classic ASP and COM DLL Does not work in Server 2008 R2 (Microsoft VBScript runtime error &#39;800a01ad&#39; ActiveX component can&#39;t create object )

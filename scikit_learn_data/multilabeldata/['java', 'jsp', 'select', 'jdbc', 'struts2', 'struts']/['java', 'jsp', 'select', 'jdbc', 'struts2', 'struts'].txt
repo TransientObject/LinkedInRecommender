@@ -1,0 +1,1 @@
+How to retrieve the value of the select tag in Struts 2

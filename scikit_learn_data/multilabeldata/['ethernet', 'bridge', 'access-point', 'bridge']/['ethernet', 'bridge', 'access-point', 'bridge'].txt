@@ -1,0 +1,1 @@
+how to configure bridge in linux for sending packets from access point to ethernet vlan

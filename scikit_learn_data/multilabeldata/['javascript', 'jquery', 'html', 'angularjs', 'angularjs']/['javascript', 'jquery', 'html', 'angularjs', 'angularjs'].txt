@@ -1,0 +1,1 @@
+Angularjs with ngAnimate all images display when only one has the active class

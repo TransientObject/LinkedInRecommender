@@ -1,0 +1,1 @@
+TestNg Assert.AssertTrue Always returns False - Selenium Webdriver

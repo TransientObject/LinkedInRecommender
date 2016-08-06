@@ -1,0 +1,1 @@
+Netezza Query to the database fails with netezza.max.stmt

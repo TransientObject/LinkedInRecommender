@@ -1,0 +1,1 @@
+What is Python &#39;s default setting for width on String Operations and how is it different that &quot;0&quot;?

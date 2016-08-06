@@ -1,0 +1,1 @@
+Benchmarking HighCharts, D3 and Canvas plotting

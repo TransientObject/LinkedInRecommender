@@ -1,0 +1,1 @@
+Working Principle or logic in Laravel framework

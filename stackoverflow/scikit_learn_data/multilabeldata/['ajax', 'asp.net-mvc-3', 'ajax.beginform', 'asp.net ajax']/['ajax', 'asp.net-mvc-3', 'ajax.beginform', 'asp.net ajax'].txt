@@ -1,0 +1,1 @@
+MVC3 ASP.NET Ajax BeginForm doesn&#39;t work sometimes when it&#39;s injected by other Ajax

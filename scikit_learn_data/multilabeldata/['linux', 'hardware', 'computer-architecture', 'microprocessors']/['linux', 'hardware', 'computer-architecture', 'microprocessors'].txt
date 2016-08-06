@@ -1,0 +1,1 @@
+how an application gets executed from computer architecture point of view

@@ -1,0 +1,1 @@
+OpenNETCF.Button2: Code generation for property &#39;BackgroundImage&#39; failed

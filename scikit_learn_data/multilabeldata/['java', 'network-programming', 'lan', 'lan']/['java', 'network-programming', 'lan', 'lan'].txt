@@ -1,0 +1,1 @@
+geting ip address of all host connected to LAN in java

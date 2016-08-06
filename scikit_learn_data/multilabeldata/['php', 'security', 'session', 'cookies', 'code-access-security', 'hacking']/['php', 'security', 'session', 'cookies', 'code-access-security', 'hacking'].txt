@@ -1,0 +1,1 @@
+Hacking PHP page checking if a session cookie variable is set and exposing its name

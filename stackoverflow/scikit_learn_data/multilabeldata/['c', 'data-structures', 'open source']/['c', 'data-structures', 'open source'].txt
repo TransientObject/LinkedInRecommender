@@ -1,0 +1,1 @@
+Are there any open source C libraries with common data structures?

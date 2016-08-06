@@ -1,0 +1,1 @@
+Is there an integrated way of benchmarking a Parallel.For loop by iterations per time interval?

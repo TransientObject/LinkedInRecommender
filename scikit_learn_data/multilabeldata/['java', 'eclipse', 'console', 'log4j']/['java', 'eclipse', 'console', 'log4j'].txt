@@ -1,0 +1,1 @@
+&quot;Unable to parse type name from hyperlink&quot; error in Eclipse Console

@@ -1,0 +1,1 @@
+WAMP .htaccess gives Internal Server Error after moving from XAMPP

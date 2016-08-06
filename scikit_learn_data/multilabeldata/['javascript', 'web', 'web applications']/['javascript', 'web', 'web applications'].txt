@@ -1,0 +1,1 @@
+Javascript Scope for web applications

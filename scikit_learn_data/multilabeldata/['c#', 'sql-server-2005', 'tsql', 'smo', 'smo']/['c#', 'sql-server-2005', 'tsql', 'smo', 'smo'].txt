@@ -1,0 +1,1 @@
+SMO Column.Default returns an empty string even though the column has a default value

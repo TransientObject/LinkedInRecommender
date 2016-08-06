@@ -1,0 +1,1 @@
+AngularJS how to invoke the ng-show on a div from another controller

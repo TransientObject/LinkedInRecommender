@@ -1,0 +1,1 @@
+Spring 3 MVC + Hibernate 3.5.x : Autowiring and Dependency Injection of SessionFactory

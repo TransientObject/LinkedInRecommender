@@ -1,0 +1,1 @@
+Product images are not shown on front page on magento 1.8 e-commerce website

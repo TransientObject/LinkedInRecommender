@@ -1,0 +1,1 @@
+how to connect matlab with GSM module and send MMS to mobile through GSM module

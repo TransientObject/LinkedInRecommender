@@ -1,0 +1,1 @@
+VHDL timer that returns 1 when it has reached its count

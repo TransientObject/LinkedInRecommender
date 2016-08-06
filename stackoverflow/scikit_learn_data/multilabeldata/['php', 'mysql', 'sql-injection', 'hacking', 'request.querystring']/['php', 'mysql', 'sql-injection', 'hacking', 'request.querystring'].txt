@@ -1,0 +1,1 @@
+taking safe input from url and making my input hacking safe

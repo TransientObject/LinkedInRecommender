@@ -1,0 +1,1 @@
+Scroll to top of page after ASP.Net Ajax Async-Postback without JQuery

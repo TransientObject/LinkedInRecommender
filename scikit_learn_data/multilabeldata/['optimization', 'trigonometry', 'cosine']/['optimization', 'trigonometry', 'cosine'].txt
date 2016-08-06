@@ -1,0 +1,1 @@
+Code motion optimization of trigonometric function[cos(\theta)]

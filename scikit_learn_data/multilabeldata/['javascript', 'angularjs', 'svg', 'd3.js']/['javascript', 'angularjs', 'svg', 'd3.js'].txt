@@ -1,0 +1,1 @@
+how to combine angularjs dynamic text input with d3js-created svg circles for filtering

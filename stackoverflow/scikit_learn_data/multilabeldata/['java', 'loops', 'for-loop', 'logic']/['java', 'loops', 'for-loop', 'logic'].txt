@@ -1,0 +1,1 @@
+Output error resulting from logic error when determining percentage based on incremental while loop

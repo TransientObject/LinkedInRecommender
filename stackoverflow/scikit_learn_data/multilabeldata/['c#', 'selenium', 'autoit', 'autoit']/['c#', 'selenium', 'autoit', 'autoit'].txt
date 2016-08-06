@@ -1,0 +1,1 @@
+c# Selenium AutoIt - failed to send text to password input (safe control)

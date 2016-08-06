@@ -1,0 +1,1 @@
+Is there anyway to extract firmware ROM from USB device? Bluetooth adapter, for example

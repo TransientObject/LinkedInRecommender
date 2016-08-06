@@ -1,0 +1,1 @@
+AWS Apache PHP works from outside but fails when tried to invoke using IP within

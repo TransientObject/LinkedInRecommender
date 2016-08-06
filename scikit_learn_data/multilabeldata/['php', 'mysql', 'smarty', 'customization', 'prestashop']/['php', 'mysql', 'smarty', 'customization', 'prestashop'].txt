@@ -1,0 +1,1 @@
+Prestashop - How to add a custom input field to product customization and write to db

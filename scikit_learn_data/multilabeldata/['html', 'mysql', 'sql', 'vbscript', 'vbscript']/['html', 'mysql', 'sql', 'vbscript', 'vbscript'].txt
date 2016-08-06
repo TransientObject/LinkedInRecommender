@@ -1,0 +1,1 @@
+vbscript display a database query in html table

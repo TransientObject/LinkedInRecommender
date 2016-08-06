@@ -1,0 +1,1 @@
+JQuery ajax not send js array

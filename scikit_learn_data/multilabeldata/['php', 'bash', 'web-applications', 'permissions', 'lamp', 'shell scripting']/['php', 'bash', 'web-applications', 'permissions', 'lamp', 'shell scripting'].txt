@@ -1,0 +1,1 @@
+php file inside /var/www canot execute any shell scripting located outside /var/www

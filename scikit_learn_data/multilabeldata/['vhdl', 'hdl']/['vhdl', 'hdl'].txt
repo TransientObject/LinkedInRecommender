@@ -1,0 +1,1 @@
+&quot;This port will be preserved and left unconnected if it belongs to a top-level block....&quot; in VHDL

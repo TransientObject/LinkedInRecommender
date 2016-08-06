@@ -1,0 +1,1 @@
+Is there a way to ignore SIGCHLD in Boost testing framework using macro definitions?

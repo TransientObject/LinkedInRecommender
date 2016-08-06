@@ -1,0 +1,1 @@
+Rails - reduce coupling when adding AJAX

@@ -1,0 +1,1 @@
+how do compilers assign memory addresses to variables?

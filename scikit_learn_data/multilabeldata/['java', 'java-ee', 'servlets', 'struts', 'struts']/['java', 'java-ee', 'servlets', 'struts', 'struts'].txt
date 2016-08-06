@@ -1,0 +1,1 @@
+Catch-all J2EE filter that will capture ALL HTML input content and manipulate, not working with Struts applications

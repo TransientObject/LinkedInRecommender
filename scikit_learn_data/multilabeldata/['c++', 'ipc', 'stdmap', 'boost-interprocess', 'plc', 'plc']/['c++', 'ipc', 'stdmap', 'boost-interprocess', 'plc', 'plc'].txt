@@ -1,0 +1,1 @@
+Has anyone successfully compiled boost::interprocess on a X20 PLC from B&amp;R?

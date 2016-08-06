@@ -1,0 +1,1 @@
+ODBC call SQLFetch slower when MARS is enabled

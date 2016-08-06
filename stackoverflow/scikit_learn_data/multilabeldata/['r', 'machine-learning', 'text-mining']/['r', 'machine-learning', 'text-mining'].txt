@@ -1,0 +1,1 @@
+How to convert a termDocumentMatrix which I have got from text mining in R into excel or CSV file?

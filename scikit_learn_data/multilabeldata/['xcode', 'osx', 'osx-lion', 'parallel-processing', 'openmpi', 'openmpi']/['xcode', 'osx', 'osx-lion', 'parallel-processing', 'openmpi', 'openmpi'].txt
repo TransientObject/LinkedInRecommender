@@ -1,0 +1,1 @@
+How do I compile openmpi programs using xcode 4?

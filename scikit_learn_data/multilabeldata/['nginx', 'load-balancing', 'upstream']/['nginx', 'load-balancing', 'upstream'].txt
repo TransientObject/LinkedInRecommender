@@ -1,0 +1,1 @@
+Tell Nginx to try another upstream on error

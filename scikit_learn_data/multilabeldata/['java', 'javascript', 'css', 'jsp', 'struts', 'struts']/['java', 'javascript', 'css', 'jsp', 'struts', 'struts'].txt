@@ -1,0 +1,1 @@
+Struts 2 - Use Javascript to change text box back colour if wrong, before posting

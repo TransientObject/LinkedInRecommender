@@ -1,0 +1,1 @@
+Django - Hacking attempt, [Django] ERROR: Invalid HTTP_HOST header

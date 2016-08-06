@@ -1,0 +1,1 @@
+Where should i store images on my content management system?

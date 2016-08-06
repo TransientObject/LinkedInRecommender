@@ -1,0 +1,1 @@
+Arc Gis 10 dosnt show me spatial analyst in arcmap

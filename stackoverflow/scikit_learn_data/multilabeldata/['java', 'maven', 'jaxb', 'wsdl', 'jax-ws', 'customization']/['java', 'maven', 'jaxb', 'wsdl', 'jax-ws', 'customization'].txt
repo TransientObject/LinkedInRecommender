@@ -1,0 +1,1 @@
+Jaxb maven plugin auto generated stub classes names customization

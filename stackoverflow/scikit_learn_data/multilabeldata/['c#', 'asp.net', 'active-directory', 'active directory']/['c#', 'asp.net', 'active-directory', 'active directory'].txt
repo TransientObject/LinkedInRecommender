@@ -1,0 +1,1 @@
+How To get currently logged in Active directory user name in C#

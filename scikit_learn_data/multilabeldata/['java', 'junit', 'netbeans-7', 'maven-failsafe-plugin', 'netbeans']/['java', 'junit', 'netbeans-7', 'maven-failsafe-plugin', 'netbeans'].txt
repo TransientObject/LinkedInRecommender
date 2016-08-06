@@ -1,0 +1,1 @@
+How can I view integration tests in the Netbeans Test Results?

@@ -1,0 +1,1 @@
+Making the text in the image can be read with image enhancement in matlab

@@ -1,0 +1,1 @@
+Japanese COBOL code on IBM mainframe in Shift-JIS; represented after transfer to a PC how?

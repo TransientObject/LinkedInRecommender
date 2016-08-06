@@ -1,0 +1,1 @@
+Write from SAS Table to DB2 Temp Table

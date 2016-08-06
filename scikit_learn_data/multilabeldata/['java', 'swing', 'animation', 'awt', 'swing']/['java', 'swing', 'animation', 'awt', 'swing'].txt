@@ -1,0 +1,1 @@
+Java Swing / AWT with setIcon Gif Animated High Load

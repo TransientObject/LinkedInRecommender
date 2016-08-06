@@ -1,0 +1,1 @@
+&quot;Uncaught Could not connect&quot; error when using Openshift to deploy .war for PHP/Java bridge

@@ -1,0 +1,1 @@
+How would you implement this digital logic in Verilog or VHDL?

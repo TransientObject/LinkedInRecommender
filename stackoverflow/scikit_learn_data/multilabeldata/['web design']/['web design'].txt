@@ -1,0 +1,1 @@
+Relative width and padding on same element - responsive web design

@@ -1,0 +1,1 @@
+Struts 2 property tag can&#39;t access abstract parent class member

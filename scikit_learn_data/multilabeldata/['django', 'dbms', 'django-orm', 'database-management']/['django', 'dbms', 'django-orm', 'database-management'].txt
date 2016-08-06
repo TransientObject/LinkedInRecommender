@@ -1,0 +1,1 @@
+Django: Query works fine with Sqlite3, don&#39;t with others Database Management System

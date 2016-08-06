@@ -1,0 +1,1 @@
+jsp in another jsp struts 2

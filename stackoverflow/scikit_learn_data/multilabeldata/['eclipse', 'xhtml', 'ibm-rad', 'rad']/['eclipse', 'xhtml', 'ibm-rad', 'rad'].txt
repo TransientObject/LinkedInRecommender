@@ -1,0 +1,1 @@
+Focus goes suddenly to the begin of the file while editing ui:include in Page Designer in IBM RAD

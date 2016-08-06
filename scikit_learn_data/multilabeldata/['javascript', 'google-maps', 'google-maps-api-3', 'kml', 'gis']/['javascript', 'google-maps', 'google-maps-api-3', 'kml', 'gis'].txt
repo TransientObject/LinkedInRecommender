@@ -1,0 +1,1 @@
+GIS Google Maps handle large # polygons add/remove

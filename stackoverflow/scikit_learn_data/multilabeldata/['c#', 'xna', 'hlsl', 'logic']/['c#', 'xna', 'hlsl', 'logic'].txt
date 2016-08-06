@@ -1,0 +1,1 @@
+How do you implement logic with a Boolean variable in HLSL?

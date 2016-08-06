@@ -1,0 +1,1 @@
+Internal error: Oops: 17 on OMAP device

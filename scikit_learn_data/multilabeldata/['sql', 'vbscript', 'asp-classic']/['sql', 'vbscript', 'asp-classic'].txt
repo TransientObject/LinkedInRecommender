@@ -1,0 +1,1 @@
+Pass a vbscript String list to a SQL &quot;in&quot;operator

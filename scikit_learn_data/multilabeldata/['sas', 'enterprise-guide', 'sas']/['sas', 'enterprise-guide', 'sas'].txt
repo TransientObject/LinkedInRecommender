@@ -1,0 +1,1 @@
+remove &quot;The SAS System&quot; from SAS the log

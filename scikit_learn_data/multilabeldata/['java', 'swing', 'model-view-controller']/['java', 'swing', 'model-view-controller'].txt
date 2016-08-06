@@ -1,0 +1,1 @@
+Java Swing MVC windows change implementation

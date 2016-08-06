@@ -1,0 +1,1 @@
+How can i write HQL statements inside criteria

@@ -1,0 +1,1 @@
+SMO Assemblies in .Net Framework 4.0

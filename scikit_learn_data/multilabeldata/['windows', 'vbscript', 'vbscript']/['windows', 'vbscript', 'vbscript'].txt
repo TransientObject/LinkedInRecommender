@@ -1,0 +1,1 @@
+VBScript - relative path not working

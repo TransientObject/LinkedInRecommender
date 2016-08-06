@@ -1,0 +1,1 @@
+Can I use fstream in C++ to read or write file when I&#39;m implementing a disk management component of DBMS

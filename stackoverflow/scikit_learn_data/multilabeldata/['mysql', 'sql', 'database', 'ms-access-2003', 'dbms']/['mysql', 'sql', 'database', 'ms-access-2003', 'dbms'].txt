@@ -1,0 +1,1 @@
+What could be the right SQL query for this? I am using MS Access dbms

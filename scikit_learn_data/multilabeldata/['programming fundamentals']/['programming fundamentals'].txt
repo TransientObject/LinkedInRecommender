@@ -1,0 +1,1 @@
+What if any, programming fundamentals are better learned in C as opposed to C++?

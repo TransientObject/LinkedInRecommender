@@ -1,0 +1,1 @@
+smtp exception &quot;failure sending mail&quot; in C#.net

@@ -1,0 +1,1 @@
+click_no_wait does not work the second time when autoIt is used to handle the file download box

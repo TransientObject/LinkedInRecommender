@@ -1,0 +1,1 @@
+C++Amp Copying an image of 16 bits from a texture to texture (from a openCV Mat)

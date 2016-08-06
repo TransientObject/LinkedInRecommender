@@ -1,0 +1,1 @@
+Resource management in a mixed C# + WPF / C++ Application

@@ -1,0 +1,1 @@
+OCR reader for xamarin code? i can use web API as well please suggest any?

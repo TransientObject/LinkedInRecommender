@@ -1,0 +1,1 @@
+Trying to paint rectangles inside a swing worker

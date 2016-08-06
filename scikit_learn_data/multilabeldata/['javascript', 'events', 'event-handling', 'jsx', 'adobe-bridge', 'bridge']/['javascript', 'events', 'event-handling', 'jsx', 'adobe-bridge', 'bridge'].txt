@@ -1,0 +1,1 @@
+Event handler if new File added in current folder - Adobe Bridge CS6

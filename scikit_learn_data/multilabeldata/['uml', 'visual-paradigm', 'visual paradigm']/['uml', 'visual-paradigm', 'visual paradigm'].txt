@@ -1,0 +1,1 @@
+Setting the association end ownership in UML: What does it mean with respect to generated code in visual paradigm (or in other UML tools)?

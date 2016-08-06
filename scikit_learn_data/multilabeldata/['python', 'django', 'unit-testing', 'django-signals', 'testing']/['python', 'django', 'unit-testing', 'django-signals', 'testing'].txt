@@ -1,0 +1,1 @@
+TransactionManagementError &quot;You can&#39;t execute queries until the end of the &#39;atomic&#39; block&quot; while using signals, but only during Unit Testing

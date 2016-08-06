@@ -1,0 +1,1 @@
+What are the Meta model design advantages and drawbacks with search engine (SOLR) usage?

@@ -1,0 +1,1 @@
+XAMPP for Mac rewriting issue when using virtual hosts

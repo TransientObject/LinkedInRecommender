@@ -1,0 +1,1 @@
+RabbitMQ - high availability queues - but w/o messages replication

@@ -1,0 +1,1 @@
+NancyFx and unit testing Response.AsFile(...) fails with NotFound

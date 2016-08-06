@@ -1,0 +1,1 @@
+Oracle -&gt; ODBC -&gt; MS SQL Server Query Succeeds... Materialized View Fails 42S22 Error 207

@@ -1,0 +1,1 @@
+Running ginput while also running a loop in MATLAB

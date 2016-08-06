@@ -1,0 +1,1 @@
+Pan Gesture recognition and UIKit Dynamics Gravity

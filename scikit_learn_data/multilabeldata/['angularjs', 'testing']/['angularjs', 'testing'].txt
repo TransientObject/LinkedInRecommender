@@ -1,0 +1,1 @@
+Mocking a Service in an AngularJS errors out

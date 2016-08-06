@@ -1,0 +1,1 @@
+Selenium RC: upload files from local machine without autoIT

@@ -1,0 +1,1 @@
+JavaScriptMVC and Ruby on Rails integration in one application

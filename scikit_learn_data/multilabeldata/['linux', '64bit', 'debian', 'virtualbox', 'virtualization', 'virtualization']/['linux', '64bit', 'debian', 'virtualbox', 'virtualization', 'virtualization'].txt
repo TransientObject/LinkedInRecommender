@@ -1,0 +1,1 @@
+No 64bit virtualization in virtualbox (Intel S1200RP motherboard + Xeon 1270 v3)

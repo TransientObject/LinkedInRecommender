@@ -1,0 +1,1 @@
+Configuring pcore in xilinx xps

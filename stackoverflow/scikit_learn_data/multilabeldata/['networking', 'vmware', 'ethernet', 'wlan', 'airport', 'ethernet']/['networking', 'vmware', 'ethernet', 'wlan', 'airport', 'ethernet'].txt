@@ -1,0 +1,1 @@
+Forcing VMware Fusion to use Airport instead of a wired Ethernet interface

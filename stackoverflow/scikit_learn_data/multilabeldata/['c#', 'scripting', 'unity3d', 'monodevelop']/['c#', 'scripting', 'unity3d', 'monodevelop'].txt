@@ -1,0 +1,1 @@
+Why can&#39;t I edit C# script although I have monodevelop installed in Unity3D 4.3.4?

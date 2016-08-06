@@ -1,0 +1,1 @@
+PHP in FastCGI mode on Windows operation systems

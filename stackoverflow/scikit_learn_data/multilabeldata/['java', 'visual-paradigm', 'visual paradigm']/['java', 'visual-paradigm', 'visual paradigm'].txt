@@ -1,0 +1,1 @@
+Warning: There is no class model available for code generation in Visual Paradigm

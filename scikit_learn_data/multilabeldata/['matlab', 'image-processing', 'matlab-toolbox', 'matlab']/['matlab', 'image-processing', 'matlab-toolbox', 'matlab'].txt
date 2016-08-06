@@ -1,0 +1,1 @@
+matlab REGIONPROPS needs I as an input to calculate &#39;MinIntensity&#39;

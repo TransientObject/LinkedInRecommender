@@ -1,0 +1,1 @@
+How to get Local Area Connection Name with batch script in windows 7

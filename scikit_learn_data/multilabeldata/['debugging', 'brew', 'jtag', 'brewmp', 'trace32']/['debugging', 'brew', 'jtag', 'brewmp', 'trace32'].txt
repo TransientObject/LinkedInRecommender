@@ -1,0 +1,1 @@
+Using Trace32 with Qualcomm FFA

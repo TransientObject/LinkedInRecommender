@@ -1,0 +1,1 @@
+Using MARTE GQAM stereotypes in Papyrus UML models

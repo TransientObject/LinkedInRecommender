@@ -1,0 +1,1 @@
+Strange issue with C# WPF app using TPL with an out-of-process COM server

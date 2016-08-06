@@ -1,0 +1,1 @@
+how to call a PHP function using jquery ajax

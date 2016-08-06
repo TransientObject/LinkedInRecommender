@@ -1,0 +1,1 @@
+VbScript to trim trailing pipes off file at 35 pipes

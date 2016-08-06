@@ -1,0 +1,1 @@
+How do GLSL operations compare to one another performance wise?

@@ -1,0 +1,1 @@
+AutoIT How to encrypt a single file

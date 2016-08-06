@@ -1,0 +1,1 @@
+In Easytrieve output the count of different values in a column

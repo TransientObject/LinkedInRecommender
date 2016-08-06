@@ -1,0 +1,1 @@
+What is the effect of using JMP on a function address?

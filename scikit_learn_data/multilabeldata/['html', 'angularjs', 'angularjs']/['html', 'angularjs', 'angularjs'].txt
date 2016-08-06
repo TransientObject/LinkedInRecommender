@@ -1,0 +1,1 @@
+Strange scope when trying to clear input text via AngularJS

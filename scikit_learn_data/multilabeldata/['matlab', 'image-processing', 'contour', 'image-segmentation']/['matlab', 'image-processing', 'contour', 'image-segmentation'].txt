@@ -1,0 +1,1 @@
+Find mean of pixels within a contour/patch matlab

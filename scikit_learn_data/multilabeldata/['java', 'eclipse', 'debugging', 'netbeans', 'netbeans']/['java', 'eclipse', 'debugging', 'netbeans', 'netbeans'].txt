@@ -1,0 +1,1 @@
+does netbeans have something like Eclipse Debug display view

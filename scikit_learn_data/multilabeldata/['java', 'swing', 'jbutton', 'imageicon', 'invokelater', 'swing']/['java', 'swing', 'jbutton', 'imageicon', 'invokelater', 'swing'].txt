@@ -1,0 +1,1 @@
+my java swing application jcomponents won&#39;t either paint, repaint only after calculations done?

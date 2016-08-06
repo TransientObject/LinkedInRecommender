@@ -1,0 +1,1 @@
+convert the 3D MRI image into slices of 2D using matlab

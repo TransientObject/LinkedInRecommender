@@ -1,0 +1,1 @@
+AutoIt imagesearch not working properly

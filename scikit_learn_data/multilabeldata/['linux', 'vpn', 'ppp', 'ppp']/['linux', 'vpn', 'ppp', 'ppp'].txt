@@ -1,0 +1,1 @@
+is that possible to get user name of a ppp connection after connected

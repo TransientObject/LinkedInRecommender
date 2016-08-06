@@ -1,0 +1,1 @@
+Java Swing - How to make the JButton&#39;s boundaries invisible?

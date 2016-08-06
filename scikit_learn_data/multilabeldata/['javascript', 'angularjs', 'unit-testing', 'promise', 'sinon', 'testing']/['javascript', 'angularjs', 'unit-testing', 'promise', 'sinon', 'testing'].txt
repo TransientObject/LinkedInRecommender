@@ -1,0 +1,1 @@
+Testing an AngularJS Controller method that returns a promise using Jasmine and Sinon

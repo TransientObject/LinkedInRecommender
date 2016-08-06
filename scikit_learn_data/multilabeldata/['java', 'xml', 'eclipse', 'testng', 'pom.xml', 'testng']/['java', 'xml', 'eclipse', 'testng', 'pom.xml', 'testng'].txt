@@ -1,0 +1,1 @@
+Eclipse -- Testng references non-existing project XXX, launch configuration

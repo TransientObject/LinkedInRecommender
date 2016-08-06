@@ -1,0 +1,1 @@
+Share PHP session between multiple web applications

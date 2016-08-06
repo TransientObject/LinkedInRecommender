@@ -1,0 +1,1 @@
+Linux, supporting slightly different board variations, same SOC

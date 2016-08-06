@@ -1,0 +1,1 @@
+Deploying Struts 2 project in JBOSS 7

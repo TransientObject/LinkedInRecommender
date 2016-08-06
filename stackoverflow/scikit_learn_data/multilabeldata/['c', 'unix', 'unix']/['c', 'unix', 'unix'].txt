@@ -1,0 +1,1 @@
+removing a character in C in Unix is not working

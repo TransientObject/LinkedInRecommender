@@ -1,0 +1,1 @@
+I want select records that have same value and one user of joomla add it in database table

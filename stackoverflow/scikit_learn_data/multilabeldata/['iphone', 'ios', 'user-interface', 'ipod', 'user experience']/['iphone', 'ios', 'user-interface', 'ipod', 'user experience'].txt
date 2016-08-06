@@ -1,0 +1,1 @@
+Is it a good user experience for ios to disable back button when a condition becomes true?

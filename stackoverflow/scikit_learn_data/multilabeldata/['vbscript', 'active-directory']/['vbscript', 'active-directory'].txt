@@ -1,0 +1,1 @@
+To create a Email Id and enable it using vbscript in an active directory

@@ -1,0 +1,1 @@
+How can I create a new Joomla user account from within a script?

@@ -1,0 +1,1 @@
+Check if SMTP is running or failed to send email

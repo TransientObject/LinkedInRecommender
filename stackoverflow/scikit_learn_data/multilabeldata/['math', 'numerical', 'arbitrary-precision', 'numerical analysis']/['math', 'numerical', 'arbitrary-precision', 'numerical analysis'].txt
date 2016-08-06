@@ -1,0 +1,1 @@
+Has arbitrary-precision arithmetic affected numerical analysis software?

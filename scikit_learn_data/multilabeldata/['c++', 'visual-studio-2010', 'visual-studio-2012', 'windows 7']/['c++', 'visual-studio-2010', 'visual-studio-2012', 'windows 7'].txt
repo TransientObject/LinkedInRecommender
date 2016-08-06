@@ -1,0 +1,1 @@
+Best version of Visual studio for native C++ MFC development, Windows 7 and later

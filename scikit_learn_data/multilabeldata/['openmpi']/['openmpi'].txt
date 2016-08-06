@@ -1,0 +1,1 @@
+OpenMPI mpiexec function is not working on Cygwin terminal

@@ -1,0 +1,1 @@
+Getting network on mainthread exception after App returns from resume on Parse initialization

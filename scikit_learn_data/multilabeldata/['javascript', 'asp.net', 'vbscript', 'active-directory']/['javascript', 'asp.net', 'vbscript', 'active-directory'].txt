@@ -1,0 +1,1 @@
+How do I populate a list of email groups from active directory into an array?

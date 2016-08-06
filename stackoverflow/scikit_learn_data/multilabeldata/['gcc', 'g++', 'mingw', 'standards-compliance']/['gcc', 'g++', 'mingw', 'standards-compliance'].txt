@@ -1,0 +1,1 @@
+Is MinGW exactly the same as GCC as far as standards compliance or features?

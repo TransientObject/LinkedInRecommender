@@ -1,0 +1,1 @@
+iOS Google Analytics memory growing out of control FAST

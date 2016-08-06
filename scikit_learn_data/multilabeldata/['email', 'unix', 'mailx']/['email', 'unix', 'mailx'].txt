@@ -1,0 +1,1 @@
+Sending email with CC BCC and sender&#39;s address in unix mailx

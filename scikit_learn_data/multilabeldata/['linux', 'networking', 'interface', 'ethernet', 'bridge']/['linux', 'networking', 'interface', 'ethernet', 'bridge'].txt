@@ -1,0 +1,1 @@
+how to delete a bridge connection in linux OS?

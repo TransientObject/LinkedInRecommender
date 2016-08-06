@@ -1,0 +1,1 @@
+Automatic or manual Active Directory authentication in asp.net mvc

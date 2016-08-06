@@ -1,0 +1,1 @@
+Database schema about social networking like Facebook

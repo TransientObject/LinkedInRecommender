@@ -1,0 +1,1 @@
+Numerical solution to differential equations in C++, path to take?

@@ -1,0 +1,1 @@
+Detecting face very fast from video using vision.CascadeObjectDetector in matlab

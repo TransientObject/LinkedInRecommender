@@ -1,0 +1,1 @@
+SQL Developer, want to create a Front End for Automation of creation of Unix Scripts

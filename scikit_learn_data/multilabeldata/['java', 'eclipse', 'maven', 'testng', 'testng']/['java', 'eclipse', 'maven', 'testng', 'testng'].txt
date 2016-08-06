@@ -1,0 +1,1 @@
+How to config TestNG test-output folder to be inside Maven target folder?

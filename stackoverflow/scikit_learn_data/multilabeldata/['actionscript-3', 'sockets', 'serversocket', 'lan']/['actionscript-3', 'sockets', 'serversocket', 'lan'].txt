@@ -1,0 +1,1 @@
+AS3 SocketServer- sockets connect, but cannot send data to server over LAN

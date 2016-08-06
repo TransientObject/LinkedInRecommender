@@ -1,0 +1,1 @@
+The XMLInputFactory does not recognize the property &quot;reuse-instance&quot; : Spring MVC, JUnit, RAD &amp; Web sphere server

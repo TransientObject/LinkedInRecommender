@@ -1,0 +1,1 @@
+CodeIgniter htaccess file after migrate to online host

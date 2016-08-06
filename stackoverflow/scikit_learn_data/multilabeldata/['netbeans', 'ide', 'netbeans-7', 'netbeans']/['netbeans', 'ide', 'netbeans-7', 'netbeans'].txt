@@ -1,0 +1,1 @@
+NetBeans - New projects do not show up in Projects view

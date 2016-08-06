@@ -1,0 +1,1 @@
+Merging/Creating powerpoint slides in PHP using COM and PHPPowerpoint

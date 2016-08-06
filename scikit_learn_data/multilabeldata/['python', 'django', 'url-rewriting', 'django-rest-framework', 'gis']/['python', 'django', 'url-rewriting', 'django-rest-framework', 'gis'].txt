@@ -1,0 +1,1 @@
+Best approach to use URL name conventions for gis REST api

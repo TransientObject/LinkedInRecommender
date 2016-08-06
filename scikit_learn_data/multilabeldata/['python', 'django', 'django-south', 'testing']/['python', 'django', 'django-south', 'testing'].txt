@@ -1,0 +1,1 @@
+Django ORM not performing SELECT queries in testing

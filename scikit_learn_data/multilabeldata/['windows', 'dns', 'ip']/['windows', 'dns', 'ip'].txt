@@ -1,0 +1,1 @@
+how set domain dns for my local server with public static ip

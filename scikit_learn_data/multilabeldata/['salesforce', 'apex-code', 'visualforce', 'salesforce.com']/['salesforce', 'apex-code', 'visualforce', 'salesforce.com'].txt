@@ -1,0 +1,1 @@
+How do I capture the files published in feed in salesforce.com using apex

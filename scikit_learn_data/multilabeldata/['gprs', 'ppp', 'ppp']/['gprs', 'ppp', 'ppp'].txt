@@ -1,0 +1,1 @@
+GPRS PPP connect failture during LCP negotiation

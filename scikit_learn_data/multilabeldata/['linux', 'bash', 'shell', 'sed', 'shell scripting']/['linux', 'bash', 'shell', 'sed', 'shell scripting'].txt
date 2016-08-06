@@ -1,0 +1,1 @@
+Shell scripting that gives the summary of ls -la command in linux

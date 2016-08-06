@@ -1,0 +1,1 @@
+angularjs $q -&gt; deferred API order of things (lyfecycle) AND who invokes digest?

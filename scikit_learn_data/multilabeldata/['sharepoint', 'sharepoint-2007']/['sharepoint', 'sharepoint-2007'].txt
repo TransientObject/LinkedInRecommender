@@ -1,0 +1,1 @@
+How can I filter a Sharepoint 2007 libarry list based on current user login?

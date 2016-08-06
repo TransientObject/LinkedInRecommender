@@ -1,0 +1,1 @@
+Responsive design and same height td

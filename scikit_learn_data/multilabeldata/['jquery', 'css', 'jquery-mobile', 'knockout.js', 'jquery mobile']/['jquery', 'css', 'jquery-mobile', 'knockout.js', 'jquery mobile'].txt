@@ -1,0 +1,1 @@
+Jquery mobile style does not apply in second time navigation to the details page

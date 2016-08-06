@@ -1,0 +1,1 @@
+Cleanup Chef node/client on Cloudformation stack deletion

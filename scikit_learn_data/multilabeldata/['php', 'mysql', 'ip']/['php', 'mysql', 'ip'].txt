@@ -1,0 +1,1 @@
+insert session for each user ip address not on each page load?

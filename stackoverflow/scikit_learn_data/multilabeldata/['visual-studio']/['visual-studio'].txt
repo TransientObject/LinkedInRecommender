@@ -1,0 +1,1 @@
+Debugging Unit Test is very slow in Visual Studio 2013

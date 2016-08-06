@@ -1,0 +1,1 @@
+Standard practice to FTP and send a file over email in unix

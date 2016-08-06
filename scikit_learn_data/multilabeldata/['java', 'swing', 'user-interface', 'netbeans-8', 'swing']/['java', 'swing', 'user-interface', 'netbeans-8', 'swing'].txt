@@ -1,0 +1,1 @@
+Java UI: set swing components behavior on resize

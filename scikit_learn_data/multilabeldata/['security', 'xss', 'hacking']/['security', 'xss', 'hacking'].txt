@@ -1,0 +1,1 @@
+What hacking risks a site has if it has no input boxes?

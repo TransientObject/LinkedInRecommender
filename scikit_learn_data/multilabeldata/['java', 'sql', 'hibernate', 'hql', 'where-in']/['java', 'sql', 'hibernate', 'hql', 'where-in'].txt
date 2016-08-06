@@ -1,0 +1,1 @@
+When using Hibernate for Java getting abnormal behavior binding parameterList in HQL

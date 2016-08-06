@@ -1,0 +1,1 @@
+XAMPP where to set Access-Control-Allow-Origin &quot;*&quot;

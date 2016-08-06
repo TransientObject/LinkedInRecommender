@@ -1,0 +1,1 @@
+undefined reference when cross-compiling for ARM with static OpenCV libraries

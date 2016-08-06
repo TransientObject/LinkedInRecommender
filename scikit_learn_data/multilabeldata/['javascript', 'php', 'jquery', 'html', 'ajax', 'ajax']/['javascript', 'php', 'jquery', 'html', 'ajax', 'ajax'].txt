@@ -1,0 +1,1 @@
+AJAX post to PHP, Calculate sum and return

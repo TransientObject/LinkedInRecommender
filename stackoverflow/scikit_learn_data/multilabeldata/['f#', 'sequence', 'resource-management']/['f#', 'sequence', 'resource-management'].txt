@@ -1,0 +1,1 @@
+Resource management when using &quot;use&quot; inside a sequence expression

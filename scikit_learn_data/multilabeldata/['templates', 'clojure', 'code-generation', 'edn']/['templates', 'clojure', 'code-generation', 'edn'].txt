@@ -1,0 +1,1 @@
+Clojure EDN as a Code Generation Metadata source

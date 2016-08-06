@@ -1,0 +1,1 @@
+Make opencv java application work on cross-os (platform independent)

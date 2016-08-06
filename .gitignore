@@ -1,42 +1,57 @@
-*.rbc
-capybara-*.html
-.rspec
-/log
-/tmp
-/db/*.sqlite3
-/db/*.sqlite3-journal
-/public/system
-/coverage/
-/spec/tmp
-**.orig
-rerun.txt
-pickle-email-*.html
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
 
-# TODO Comment out these rules if you are OK with secrets being uploaded to the repo
-config/initializers/secret_token.rb
-config/secrets.yml
+# C extensions
+*.so
 
-# dotenv
-# TODO Comment out this rule if environment variables can be committed
-.env
+# Distribution / packaging
+.Python
+env/
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
 
-## Environment normalization:
-/.bundle
-/vendor/bundle
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
 
-# these should all be checked in to normalize the environment:
-# Gemfile.lock, .ruby-version, .ruby-gemset
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
 
-# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
-.rvmrc
+# Translations
+*.mo
 
-# if using bower-rails ignore default bower_components path bower.json files
-/vendor/assets/bower_components
-*.bowerrc
-bower.json
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
 
-# Ignore pow environment settings
-.powenv
+# Rope
+.ropeproject
 
-# Ignore Byebug command history file.
-.byebug_history
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
+
+linkedin_crawler.py
+linkedin_profiles.json
+

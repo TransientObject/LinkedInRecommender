@@ -1,0 +1,1 @@
+Swing image is not being displayed

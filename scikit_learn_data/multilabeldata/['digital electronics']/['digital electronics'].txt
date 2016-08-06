@@ -1,0 +1,1 @@
+implementation of an Moore Automaton in digital electronics

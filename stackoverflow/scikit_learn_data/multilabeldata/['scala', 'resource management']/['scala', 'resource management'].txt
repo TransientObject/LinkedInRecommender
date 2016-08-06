@@ -1,0 +1,1 @@
+scala automated resource management continuations issue

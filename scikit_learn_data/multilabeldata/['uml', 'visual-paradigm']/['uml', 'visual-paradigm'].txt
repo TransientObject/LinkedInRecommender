@@ -1,0 +1,1 @@
+Remove black bubbles and crosses at links using Visual Paradigm

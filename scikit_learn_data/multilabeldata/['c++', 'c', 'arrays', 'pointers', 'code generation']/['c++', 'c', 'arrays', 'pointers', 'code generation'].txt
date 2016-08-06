@@ -1,0 +1,1 @@
+Possibly non-conformant code generation when dealing with array accesses

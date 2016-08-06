@@ -1,0 +1,1 @@
+php mail function error -&gt; Warning: mail() [function.mail]: SMTP server response: 530 5.7.0 Must issue a STARTTLS command first

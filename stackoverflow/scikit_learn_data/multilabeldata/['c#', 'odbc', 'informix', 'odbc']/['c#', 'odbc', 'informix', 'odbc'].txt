@@ -1,0 +1,1 @@
+Error: Informix ODBC Driver Network driver cannot open the network device

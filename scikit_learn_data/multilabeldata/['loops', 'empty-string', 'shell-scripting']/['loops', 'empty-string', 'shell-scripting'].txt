@@ -1,0 +1,1 @@
+variable still empty after the loop problem in shell scripting

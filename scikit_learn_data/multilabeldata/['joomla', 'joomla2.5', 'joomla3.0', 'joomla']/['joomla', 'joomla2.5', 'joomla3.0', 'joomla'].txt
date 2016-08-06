@@ -1,0 +1,1 @@
+How to disable registration email in joomla 2.5 and 3

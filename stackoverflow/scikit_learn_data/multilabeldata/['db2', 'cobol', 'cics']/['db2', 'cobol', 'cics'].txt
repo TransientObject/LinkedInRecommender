@@ -1,0 +1,1 @@
+How get one record in DB2 using cics and cobol program

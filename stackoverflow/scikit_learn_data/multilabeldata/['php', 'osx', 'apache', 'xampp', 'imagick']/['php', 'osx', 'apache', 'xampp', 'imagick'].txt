@@ -1,0 +1,1 @@
+Imagick on xampp on Mac: cannot get image.so to be used

@@ -1,0 +1,1 @@
+Can&#39;t append items to array with ajax

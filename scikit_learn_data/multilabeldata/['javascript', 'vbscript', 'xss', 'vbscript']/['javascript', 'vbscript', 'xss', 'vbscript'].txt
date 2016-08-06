@@ -1,0 +1,1 @@
+vbscript URI injection (is xss possible)?

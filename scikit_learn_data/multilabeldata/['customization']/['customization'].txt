@@ -1,0 +1,1 @@
+PagerTabStrip customization - moving tab background instead of standard indicator

@@ -1,0 +1,1 @@
+Chef and MySQL recipe - `Access denied for user &#39;root&#39;@&#39;localhost&#39; (using password: YES)`

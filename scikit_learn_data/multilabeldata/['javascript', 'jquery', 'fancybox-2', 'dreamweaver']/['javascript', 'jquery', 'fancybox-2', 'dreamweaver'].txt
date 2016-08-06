@@ -1,0 +1,1 @@
+Fancybox works in dreamweaver but not in browser?

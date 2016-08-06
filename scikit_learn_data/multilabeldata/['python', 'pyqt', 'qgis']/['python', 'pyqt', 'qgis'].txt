@@ -1,0 +1,1 @@
+Issue blocking QGIS feature form dialog with Python

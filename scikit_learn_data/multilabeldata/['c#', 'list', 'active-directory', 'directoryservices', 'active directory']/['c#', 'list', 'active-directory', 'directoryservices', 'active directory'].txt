@@ -1,0 +1,1 @@
+Exception while fetching data from Active Directory via C#

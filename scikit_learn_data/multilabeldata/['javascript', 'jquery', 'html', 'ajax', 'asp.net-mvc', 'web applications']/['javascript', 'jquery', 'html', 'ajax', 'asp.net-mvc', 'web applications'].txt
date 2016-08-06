@@ -1,0 +1,1 @@
+Two web applications in one browser window - one needs to be not refreshed, while second one is

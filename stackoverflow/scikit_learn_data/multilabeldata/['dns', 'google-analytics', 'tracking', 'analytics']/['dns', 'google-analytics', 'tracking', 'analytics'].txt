@@ -1,0 +1,1 @@
+Do Google Analytics store sent data to non existing domains?

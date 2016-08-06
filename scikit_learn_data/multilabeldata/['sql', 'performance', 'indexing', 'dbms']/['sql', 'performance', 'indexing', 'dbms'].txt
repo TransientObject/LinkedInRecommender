@@ -1,0 +1,1 @@
+DBMS using index to increase performance (with example)

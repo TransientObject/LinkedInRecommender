@@ -1,0 +1,1 @@
+QGIS How to get the boundaries of a polygon by property

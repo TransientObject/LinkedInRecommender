@@ -1,0 +1,1 @@
+Prefered HDL instantiation hierarchy for a SoC

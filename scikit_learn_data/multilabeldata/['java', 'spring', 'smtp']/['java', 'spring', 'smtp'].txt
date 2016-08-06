@@ -1,0 +1,1 @@
+What is the minimized data structure for SMTP server?

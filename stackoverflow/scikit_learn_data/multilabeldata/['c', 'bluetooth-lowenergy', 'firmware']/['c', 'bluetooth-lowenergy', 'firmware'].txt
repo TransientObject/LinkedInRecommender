@@ -1,0 +1,1 @@
+How to modify the TI SensorTag Firmware to advertise indefinitely?

@@ -1,0 +1,1 @@
+Right inheritance structure in messaging system in python (possible with bridge pattern)

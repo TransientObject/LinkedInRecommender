@@ -1,0 +1,1 @@
+Simulating a click on a Next/Done button in Robolectric

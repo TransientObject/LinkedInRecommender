@@ -1,0 +1,1 @@
+WCF service is not getting callled when proxy server for LAN enabled

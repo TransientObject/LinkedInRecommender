@@ -1,0 +1,1 @@
+Show dependencies on UML use case diagrams other than &quot;&lt;&lt;extend&gt;&gt;&quot; or &quot;&lt;&lt;include&gt;&gt;&quot;

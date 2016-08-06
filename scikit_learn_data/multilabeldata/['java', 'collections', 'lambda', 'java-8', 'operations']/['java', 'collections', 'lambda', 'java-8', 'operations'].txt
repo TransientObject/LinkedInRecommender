@@ -1,0 +1,1 @@
+Strange &quot;reduce&quot; method group in JDK8 bulk collection operations library

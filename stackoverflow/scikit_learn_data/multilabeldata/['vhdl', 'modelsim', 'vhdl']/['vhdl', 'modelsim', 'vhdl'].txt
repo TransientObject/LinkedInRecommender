@@ -1,0 +1,1 @@
+Using the VHDL 2008 generic type feature to create pseudo-dynamic types

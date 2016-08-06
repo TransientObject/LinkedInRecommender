@@ -1,0 +1,1 @@
+AJAX calls to a controller action are not consistent (ASP.NET MVC)

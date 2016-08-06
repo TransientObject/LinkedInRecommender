@@ -1,0 +1,1 @@
+nginx Upstream &amp; PHP _SERVER[&quot;HTTP_HOST&quot;]

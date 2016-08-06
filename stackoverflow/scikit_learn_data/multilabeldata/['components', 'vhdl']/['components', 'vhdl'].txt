@@ -1,0 +1,1 @@
+VHDL - using two components in a third entity

@@ -1,0 +1,1 @@
+How to make the image scale its size automatically according to the parent JLabel&#39;s size, in Netbeans GUI Builder?

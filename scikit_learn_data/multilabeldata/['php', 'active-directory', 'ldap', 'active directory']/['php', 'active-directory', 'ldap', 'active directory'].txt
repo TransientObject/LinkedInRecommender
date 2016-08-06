@@ -1,0 +1,1 @@
+How to modify the &quot;cn&quot; and &quot;name&quot; attributes in Active Directory via PHP LDAP class

@@ -1,0 +1,1 @@
+In Ia32, what is the difference between jmp and ja?

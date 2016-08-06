@@ -1,0 +1,1 @@
+how to push Google Analytics data into mysql tables

@@ -1,0 +1,1 @@
+CDI Error in Glassfish v4 with j2ee and netbeans

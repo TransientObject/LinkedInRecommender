@@ -1,0 +1,1 @@
+Can&#39;t load class in HQL query creation

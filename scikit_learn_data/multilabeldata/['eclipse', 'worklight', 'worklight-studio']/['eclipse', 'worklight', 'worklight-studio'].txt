@@ -1,0 +1,1 @@
+IBM Worklight 6.0.0.2 - Installing Studio plug-in fails in Eclipse &quot;Juno&quot;

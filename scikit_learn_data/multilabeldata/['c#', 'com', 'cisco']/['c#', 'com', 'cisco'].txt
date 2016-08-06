@@ -1,0 +1,1 @@
+&quot;new VpnApiClass()&quot; get COM Exception 800701e7 till reboot

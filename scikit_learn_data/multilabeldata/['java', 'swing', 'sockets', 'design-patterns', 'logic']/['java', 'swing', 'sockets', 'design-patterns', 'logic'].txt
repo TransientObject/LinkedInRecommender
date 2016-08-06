@@ -1,0 +1,1 @@
+design pattern to use in which GUI is automatically updating using database and bussiness logic is indepenent to GUI?

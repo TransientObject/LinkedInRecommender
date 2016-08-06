@@ -1,0 +1,1 @@
+Parse between poco in Unity3D and EF6 entity

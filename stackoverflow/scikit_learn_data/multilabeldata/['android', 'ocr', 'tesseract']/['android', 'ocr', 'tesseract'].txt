@@ -1,0 +1,1 @@
+android ocr app that using tesseract

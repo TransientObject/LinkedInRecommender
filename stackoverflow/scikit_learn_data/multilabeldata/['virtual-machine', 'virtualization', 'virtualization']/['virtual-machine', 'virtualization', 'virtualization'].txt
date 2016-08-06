@@ -1,0 +1,1 @@
+VMware player gives Virtualization is incompatible with long mode on this platform

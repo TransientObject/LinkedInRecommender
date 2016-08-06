@@ -1,0 +1,1 @@
+Jquery Mobile update page DOM before show

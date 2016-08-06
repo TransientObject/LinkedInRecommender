@@ -1,0 +1,1 @@
+Rails Testing redirection in controller create method

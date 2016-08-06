@@ -1,0 +1,1 @@
+How to calculate I/O operations in contiguous ,linked and indexed allocation about file block?

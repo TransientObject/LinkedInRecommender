@@ -1,0 +1,1 @@
+Best practices for resource management when targeting multiple iDevices?

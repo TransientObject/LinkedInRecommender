@@ -1,0 +1,1 @@
+testing RSpec add_setting

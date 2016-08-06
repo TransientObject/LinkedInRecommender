@@ -1,0 +1,1 @@
+fast way to create set between two surfaces in abaqus

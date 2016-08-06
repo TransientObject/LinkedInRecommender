@@ -1,0 +1,1 @@
+No template for Windows Phone 8.1 in Visual Studio Express 2013 with Update 2 RC

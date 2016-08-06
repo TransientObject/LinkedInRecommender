@@ -1,0 +1,1 @@
+Where is &quot;-bp&quot; MAP option and how to use it in spartant 6 in xilinx OR can any suggest a better design which uses less resources

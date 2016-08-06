@@ -1,0 +1,1 @@
+Dependency Injection inside Excel VSTO and Ninject.Extensions.Factory

@@ -1,0 +1,1 @@
+Neo4j embedded in High Availability mode using Java

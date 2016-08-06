@@ -1,0 +1,1 @@
+AutoIT script - Compare Paint&#39;s Rotated Image with GDI&#39;s rotated image

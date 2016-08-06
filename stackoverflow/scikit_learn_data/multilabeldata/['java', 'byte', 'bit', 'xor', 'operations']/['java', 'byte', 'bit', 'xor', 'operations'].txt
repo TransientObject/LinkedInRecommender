@@ -1,0 +1,1 @@
+What is the fastest method for specific bit operations between two bytes?

@@ -1,0 +1,1 @@
+How to add created repository using collabnet subversion edge to eclipse

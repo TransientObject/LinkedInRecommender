@@ -1,0 +1,1 @@
+I find a code block in chat.c a module of ppp project,but I can&#39;t understand it

@@ -1,0 +1,1 @@
+Gesture recognition using OpenNI, NiTE, C#, Xtion Pro Live device

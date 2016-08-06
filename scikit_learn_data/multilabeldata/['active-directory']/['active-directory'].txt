@@ -1,0 +1,1 @@
+how to dump all users hashs for active directory

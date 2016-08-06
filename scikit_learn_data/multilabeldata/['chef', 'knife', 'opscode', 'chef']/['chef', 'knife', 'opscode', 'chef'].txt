@@ -1,0 +1,1 @@
+how to set password for user at run time in chef

@@ -1,0 +1,1 @@
+Difference between Concern and Responsibility ( ie difference between SRP and SoC )?

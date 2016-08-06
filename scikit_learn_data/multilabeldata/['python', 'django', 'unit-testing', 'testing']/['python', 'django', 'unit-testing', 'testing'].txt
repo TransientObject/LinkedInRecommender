@@ -1,0 +1,1 @@
+Django: block internet connection for testing purposes

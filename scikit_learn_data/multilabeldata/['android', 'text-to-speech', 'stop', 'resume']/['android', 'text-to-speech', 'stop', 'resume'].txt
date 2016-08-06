@@ -1,0 +1,1 @@
+TTS pause button, I only can stop it complete, but not to resume

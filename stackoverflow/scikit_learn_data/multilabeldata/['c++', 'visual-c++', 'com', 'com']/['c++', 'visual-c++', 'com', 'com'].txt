@@ -1,0 +1,1 @@
+Does Release call on an Interface ensure that the COM Component is distroyed

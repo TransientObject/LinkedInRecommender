@@ -1,0 +1,1 @@
+Oracle reports center aligning the header of a field in a repeating frame

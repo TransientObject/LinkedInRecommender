@@ -1,0 +1,1 @@
+RAD / Eclipse: Settings for Quick fixes - create method

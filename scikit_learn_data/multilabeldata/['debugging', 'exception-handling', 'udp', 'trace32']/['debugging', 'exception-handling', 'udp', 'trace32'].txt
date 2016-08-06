@@ -1,0 +1,1 @@
+Sending practice command to Trace32 debugger through external C# using T32 supported C# dll

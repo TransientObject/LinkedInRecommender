@@ -1,0 +1,1 @@
+java netbeans disable another jFormattedTextField when the first one is empty

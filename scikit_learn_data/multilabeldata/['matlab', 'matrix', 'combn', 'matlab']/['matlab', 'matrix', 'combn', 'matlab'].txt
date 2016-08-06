@@ -1,0 +1,1 @@
+generating a matrix with all possibilities in matlab

@@ -1,0 +1,1 @@
+test MacOSX application binary on PPC MacOSX

@@ -1,0 +1,1 @@
+WP E-Commerce Add to cart not redirecting to checkout page

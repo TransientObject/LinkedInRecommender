@@ -1,0 +1,1 @@
+org.hibernate.exception.DataException: Could not execute JDBC batch update

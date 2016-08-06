@@ -1,0 +1,1 @@
+UML XMI validation with schema with JAVA

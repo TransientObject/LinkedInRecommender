@@ -1,0 +1,1 @@
+Capture screenshot with AutoIt executed remotely via PsExec results in black rectangle?

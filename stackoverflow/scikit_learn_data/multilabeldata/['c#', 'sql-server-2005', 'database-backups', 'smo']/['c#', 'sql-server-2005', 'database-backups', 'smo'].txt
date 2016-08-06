@@ -1,0 +1,1 @@
+Using SMO to backup SQL Server 2005 Database with C# Windows Forms Application, Back up failed

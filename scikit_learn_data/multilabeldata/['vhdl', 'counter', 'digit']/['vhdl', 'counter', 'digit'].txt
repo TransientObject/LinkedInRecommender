@@ -1,0 +1,1 @@
+3 digit bit counter using vhdl coding does not work welll

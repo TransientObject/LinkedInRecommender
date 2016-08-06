@@ -1,0 +1,1 @@
+Simulate interrupted Connection with Apache HTTP Client (for testing purposes)

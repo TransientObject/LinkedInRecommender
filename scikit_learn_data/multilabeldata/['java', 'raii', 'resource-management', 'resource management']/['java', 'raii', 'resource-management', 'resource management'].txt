@@ -1,0 +1,1 @@
+Is C++ like resource management possible in Java

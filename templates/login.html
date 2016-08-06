@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% block body %}
+<script type=text/javascript>
+  $(function(){
+    var linkedin_login = function(e){
+      $.getJSON($SCRIPT_ROOT + '/_login', {
+      }, function() {
+        
+      });
+      return false;
+    };
+
+    $('a#login').bind('click', linkedin_login);
+  });
+</script>
+<div class="front-card" style="text-align:center;">
+  <div class="front-signin js-front-signin" style="position:static;width:auto;background:linear-gradient(#fff,#ddd);">
+    <div style="float:left;margin-top:15px;font-size:16px"><h3 style="color:#000;"><b> Authorize with LinkedIn </b></h3><br/><span> Welcome to GitOverFlow, your open source (GitHub, StackOverFlow) recommendation Engine. Please click </span><a href="#" id="login">here</a><span> to authorize our application with access to your linkedin profile and enjoy what the community has to offer !</span></div>
+  </div>
+</div>
+{% endblock %}

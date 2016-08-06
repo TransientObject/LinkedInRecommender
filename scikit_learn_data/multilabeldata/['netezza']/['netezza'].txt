@@ -1,0 +1,1 @@
+how do I convert mmyy to last day of month in netezza

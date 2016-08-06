@@ -1,0 +1,1 @@
+Does VBScript have a way to reset HTML forms?

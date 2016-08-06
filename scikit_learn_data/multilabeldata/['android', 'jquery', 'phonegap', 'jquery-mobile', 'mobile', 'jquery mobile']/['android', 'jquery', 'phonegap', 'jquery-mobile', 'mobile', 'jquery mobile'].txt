@@ -1,0 +1,1 @@
+jQuery Mobile breaks Phonegap deviceready event

@@ -1,0 +1,1 @@
+Connection erro in php odbc remote connection on Amazon EC2 instance

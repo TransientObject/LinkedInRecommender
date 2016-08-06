@@ -1,0 +1,1 @@
+Responsive design will not respond below 480

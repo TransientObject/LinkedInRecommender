@@ -1,0 +1,1 @@
+Why is struts validation not working for me?

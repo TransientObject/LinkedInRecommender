@@ -1,0 +1,1 @@
+Adding bridge to Docker container causes kernel panic on Centos

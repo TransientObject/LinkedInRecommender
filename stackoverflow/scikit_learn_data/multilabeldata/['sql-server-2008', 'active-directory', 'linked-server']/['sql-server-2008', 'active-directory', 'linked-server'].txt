@@ -1,0 +1,1 @@
+Retrieve &gt;901 rows from SQL Server 2008 linked server to Active Directory

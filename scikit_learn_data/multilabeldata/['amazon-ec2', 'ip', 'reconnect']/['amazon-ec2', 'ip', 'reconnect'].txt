@@ -1,0 +1,1 @@
+Is it possible to get a new public IP on a Amazon EC2 by command / script?

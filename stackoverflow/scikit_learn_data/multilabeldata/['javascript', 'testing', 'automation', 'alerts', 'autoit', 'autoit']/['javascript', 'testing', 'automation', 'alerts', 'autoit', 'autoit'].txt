@@ -1,0 +1,1 @@
+How can I use Autoit to close all javascript alerts and confirmations that may appear?

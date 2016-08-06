@@ -1,0 +1,1 @@
+ActionScript 1 calling to JavaScript on IE 10

@@ -1,0 +1,1 @@
+powershell javascript eval() or vbscript execute() alternative?

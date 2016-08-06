@@ -1,0 +1,1 @@
+How do I determine if a Field in Salesforce.com stores integers?

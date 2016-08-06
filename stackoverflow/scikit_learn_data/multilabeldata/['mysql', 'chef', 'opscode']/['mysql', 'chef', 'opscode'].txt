@@ -1,0 +1,1 @@
+Chef mysql opscode-cookbooks desn&#39;t work: &quot;could not find recipe ruby for cookbook mysql&quot;

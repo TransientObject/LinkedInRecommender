@@ -1,0 +1,1 @@
+Chef recipe compile error trying to create a jdbc connection pool

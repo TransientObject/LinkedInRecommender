@@ -1,0 +1,1 @@
+What triggers migration code generation in Visual Studio?

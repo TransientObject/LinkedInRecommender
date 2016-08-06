@@ -1,0 +1,1 @@
+Why is Ajax passing &#39;UNDEFINED&#39; data to MySql?

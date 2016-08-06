@@ -1,0 +1,1 @@
+How to perform statistical computations in a query?

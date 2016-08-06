@@ -1,0 +1,1 @@
+Smart GWT app displays nothing because nocache.js file not found error

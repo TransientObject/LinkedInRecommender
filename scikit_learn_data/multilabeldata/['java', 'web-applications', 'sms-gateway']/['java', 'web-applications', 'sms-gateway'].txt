@@ -1,0 +1,1 @@
+Is there any way of sending mobile notification from java web applications freely

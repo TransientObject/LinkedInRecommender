@@ -1,0 +1,1 @@
+Xilinx warnings (FF/Latch trimming) in Verilog for a MSB downsampling

@@ -1,0 +1,1 @@
+Does Netezza have an ODBC DESCRIBE function?

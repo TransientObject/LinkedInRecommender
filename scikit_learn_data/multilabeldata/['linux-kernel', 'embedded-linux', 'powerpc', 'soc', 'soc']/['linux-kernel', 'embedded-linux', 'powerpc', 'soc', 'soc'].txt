@@ -1,0 +1,1 @@
+advice on embedded linux on an FreeScale SoC MCU MPC56xx

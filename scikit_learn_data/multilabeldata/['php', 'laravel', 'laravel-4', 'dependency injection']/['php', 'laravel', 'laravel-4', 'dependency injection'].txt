@@ -1,0 +1,1 @@
+Binding with dependency injection not working. Target is not instantiable

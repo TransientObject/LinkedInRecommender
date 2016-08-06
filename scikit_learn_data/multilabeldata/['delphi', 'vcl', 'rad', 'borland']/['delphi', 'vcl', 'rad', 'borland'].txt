@@ -1,0 +1,1 @@
+Delphi 7 Error. Project not opening in RAD Studio XE5

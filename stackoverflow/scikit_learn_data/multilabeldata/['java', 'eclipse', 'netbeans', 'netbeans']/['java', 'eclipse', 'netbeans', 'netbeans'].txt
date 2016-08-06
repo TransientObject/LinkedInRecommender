@@ -1,0 +1,1 @@
+Java method runs in Eclipse and compiled jar but not NetBeans

@@ -1,0 +1,1 @@
+Oracle 11g vs MySQL vs Hadoop:- benchmarking for 10^6 to 10^9 records

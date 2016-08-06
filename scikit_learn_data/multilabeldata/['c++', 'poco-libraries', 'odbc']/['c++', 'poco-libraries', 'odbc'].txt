@@ -1,0 +1,1 @@
+Poco ODBC and while SQL loop

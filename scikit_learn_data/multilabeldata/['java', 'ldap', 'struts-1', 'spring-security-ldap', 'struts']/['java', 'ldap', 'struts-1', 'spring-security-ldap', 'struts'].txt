@@ -1,0 +1,1 @@
+Spring security ldap with struts 1.1 integration

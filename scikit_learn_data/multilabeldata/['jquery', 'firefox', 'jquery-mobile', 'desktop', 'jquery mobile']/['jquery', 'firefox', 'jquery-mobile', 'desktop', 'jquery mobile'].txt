@@ -1,0 +1,1 @@
+jQuery Mobile app not scrolling in Firefox

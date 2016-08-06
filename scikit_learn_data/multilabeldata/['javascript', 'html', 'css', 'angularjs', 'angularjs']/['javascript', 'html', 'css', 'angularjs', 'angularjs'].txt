@@ -1,0 +1,1 @@
+Changing button color on state changed angularjs

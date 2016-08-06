@@ -1,0 +1,1 @@
+Eclipse Plugin to detect the activity of Eclipse

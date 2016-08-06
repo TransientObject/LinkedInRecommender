@@ -1,0 +1,1 @@
+AngularJs How to show a loading indicator when loading the app at the first time

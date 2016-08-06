@@ -1,0 +1,1 @@
+Use SET DATEFORMAT YMD in SQL Server before java jdbc PreparedStatement

@@ -1,0 +1,1 @@
+asp.net ajax call type post directing to options

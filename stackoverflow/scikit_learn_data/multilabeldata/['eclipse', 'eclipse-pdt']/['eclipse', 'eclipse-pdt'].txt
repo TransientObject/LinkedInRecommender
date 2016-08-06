@@ -1,0 +1,1 @@
+One of my project subdirectories has disappeared from Eclipse PHP Explorer and refuses to reappear

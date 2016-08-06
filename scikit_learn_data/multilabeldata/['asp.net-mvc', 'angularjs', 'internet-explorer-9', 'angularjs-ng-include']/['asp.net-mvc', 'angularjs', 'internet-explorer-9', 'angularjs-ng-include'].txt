@@ -1,0 +1,1 @@
+AngularJs + IE9 + ng-include + html5Mode = page reload?

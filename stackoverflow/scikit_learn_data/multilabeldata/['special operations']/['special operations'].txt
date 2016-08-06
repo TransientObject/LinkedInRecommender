@@ -1,0 +1,1 @@
+Git: special operations for add, commit, or push when lots of changes exist?

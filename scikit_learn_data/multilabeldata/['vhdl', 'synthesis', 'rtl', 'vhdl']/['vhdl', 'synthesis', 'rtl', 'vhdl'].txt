@@ -1,0 +1,1 @@
+VHDL warning &quot;Warning (13024): Output pins are stuck at VCC or GND&quot; on crucial output

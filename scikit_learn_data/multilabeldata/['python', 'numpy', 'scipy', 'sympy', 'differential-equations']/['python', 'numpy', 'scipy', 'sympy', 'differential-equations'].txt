@@ -1,0 +1,1 @@
+SymPy/SciPy: solving a system of ordinary differential equations with different variables

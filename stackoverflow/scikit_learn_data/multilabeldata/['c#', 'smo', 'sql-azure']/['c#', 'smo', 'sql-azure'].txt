@@ -1,0 +1,1 @@
+Failure to CREATE TABLE in SQL Azure database using SMO

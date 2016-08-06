@@ -1,0 +1,1 @@
+Delphi like WYSIWYG windows based editor for rapid prototyping of Static web applications

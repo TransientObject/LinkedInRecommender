@@ -1,0 +1,1 @@
+Why do hedge funds and financial services often use OCaml?

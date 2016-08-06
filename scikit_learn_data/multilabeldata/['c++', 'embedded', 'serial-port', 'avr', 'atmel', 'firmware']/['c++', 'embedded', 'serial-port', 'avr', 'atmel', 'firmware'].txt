@@ -1,0 +1,1 @@
+How to manage the lines com port/uart for the firmware microcontroller (atmel), which is manual?

@@ -1,0 +1,1 @@
+JSTL resulting in &quot;ERROR 500 absolute uri cannot be resolved&quot; when executing website as a JAR file

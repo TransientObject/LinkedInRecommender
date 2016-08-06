@@ -1,0 +1,1 @@
+Basic Http Authentication from Salesforce to Taleo

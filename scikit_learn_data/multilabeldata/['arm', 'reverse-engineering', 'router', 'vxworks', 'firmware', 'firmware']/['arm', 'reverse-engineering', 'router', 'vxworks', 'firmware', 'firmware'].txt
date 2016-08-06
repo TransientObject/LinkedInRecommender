@@ -1,0 +1,1 @@
+Reverse engineering a firmware - what&#39;s up with every fourth byte?

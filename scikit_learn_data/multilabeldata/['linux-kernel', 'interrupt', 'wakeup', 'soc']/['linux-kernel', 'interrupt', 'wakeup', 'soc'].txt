@@ -1,0 +1,1 @@
+flow of HW and SW after soc wakes up from external interrupt

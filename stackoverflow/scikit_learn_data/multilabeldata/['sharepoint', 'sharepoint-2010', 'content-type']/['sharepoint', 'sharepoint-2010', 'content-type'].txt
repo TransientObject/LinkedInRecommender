@@ -1,0 +1,1 @@
+Custom SharePoint 2010 Documentset contenttype

@@ -1,0 +1,1 @@
+Set all BigDecimal operations to a certain precision?

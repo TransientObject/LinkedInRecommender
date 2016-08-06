@@ -1,0 +1,1 @@
+Android Debug Bridge is unable to connect to Android 4.2.2

@@ -1,0 +1,1 @@
+Testing 32 bit iOS app on iPhone 5s or 64 bit simulator

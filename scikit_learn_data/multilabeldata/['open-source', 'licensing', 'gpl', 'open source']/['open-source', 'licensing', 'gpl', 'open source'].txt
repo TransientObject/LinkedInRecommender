@@ -1,0 +1,1 @@
+What license (eg. BSD, GPL, etc) can I use for an open source app that can be used commerically, for free?

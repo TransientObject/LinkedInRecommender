@@ -1,0 +1,1 @@
+How to get data with jd edwards database using java code

@@ -1,0 +1,1 @@
+Free agile tool (Scrum/Kanban) able to generate burndown and other charts + Private repository: Update tickets (or user stories) with commit messages

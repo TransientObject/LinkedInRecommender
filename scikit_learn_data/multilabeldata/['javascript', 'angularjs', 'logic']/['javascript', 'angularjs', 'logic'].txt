@@ -1,0 +1,1 @@
+nested ng-repeat with outer ng-repeat item affecting the inner ng-repeat logic

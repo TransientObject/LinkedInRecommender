@@ -1,0 +1,1 @@
+Xdebug with Netbeans 8.0 and xampp 1.8.3

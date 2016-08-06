@@ -1,0 +1,1 @@
+HQL how to query ElementCollection of String

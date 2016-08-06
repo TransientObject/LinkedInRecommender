@@ -1,0 +1,1 @@
+HTML Rendering Time Recored in DynaTrace

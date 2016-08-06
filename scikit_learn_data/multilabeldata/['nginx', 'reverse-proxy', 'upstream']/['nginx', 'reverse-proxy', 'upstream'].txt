@@ -1,0 +1,1 @@
+nginx set host name depending on upstream

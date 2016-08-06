@@ -1,0 +1,1 @@
+Can TestNG see my Spock (JUnit) test results?

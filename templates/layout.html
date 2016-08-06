@@ -1,0 +1,40 @@
+<html>
+	<title>GitOverFlow</title>
+	<script type=text/javascript src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type=text/javascript>
+  	var $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+	</script>
+
+  <link rel="stylesheet" href="https://abs.twimg.com/a/1397855479/css/t1/highline_rosetta_core.bundle.css">
+  <link rel="stylesheet" href="https://abs.twimg.com/a/1397855479/css/t1/rosetta_logged_out.bundle.css">
+  <link rel="stylesheet" href="https://abs.twimg.com/a/1397855479/css/t1/highline_logged_out.bundle.css">
+  <link rel="canonical" href="./Twitter_files/Twitter.html">
+  <link rel="search" type="application/opensearchdescription+xml" href="https://twitter.com/opensearch.xml" title="Twitter">
+  <link rel="stylesheet" href="https://abs.twimg.com/a/1397855479/css/t1/rosetta_more.bundle.css">
+  <link rel="stylesheet" href="https://abs.twimg.com/a/1397855479/css/t1/highline_more.bundle.css">
+  <style type="text/css"> .nav-logo-link{margin: 11px;}</style></head>
+
+  <body class="highline logged-out mobile-callout front-page" data-fouc-class-names="swift-loading" dir="ltr">
+    <div id="doc" class="">
+      <div class="topbar js-topbar">
+        <div id="banners" class="js-banners">
+        </div>
+        <div class="global-nav" data-section-term="top_nav">
+        <div class="global-nav-inner">
+        <div class="container">
+          <ul class="nav js-global-actions"> <li class="home" data-global-action="t1home" style="background:none;">  <a class="nav-logo-link" href="#" data-nav="front"> <span><span>GitOverFlow</span></span> </a>   </li> </ul> 
+          <div class="pull-right" style="display:none;"><a href="/github.html"> GitHub </a><a href="/stack.html"> StackOverflow </a></div> 
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="page-outer">
+      <div id="page-container" class="AppContent  wrapper-front white">
+        <div class="front-container " id="front-container">
+					{% block body %}{% endblock %}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

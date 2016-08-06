@@ -1,0 +1,1 @@
+How should I bridge a reference to an item within a CFRelease&#39;d collection?

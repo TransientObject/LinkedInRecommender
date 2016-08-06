@@ -1,0 +1,1 @@
+CodeIgniter &#39;where&#39; not working

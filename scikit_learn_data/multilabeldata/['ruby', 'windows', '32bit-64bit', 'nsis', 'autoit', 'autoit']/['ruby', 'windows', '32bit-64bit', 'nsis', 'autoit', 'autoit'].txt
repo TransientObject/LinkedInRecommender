@@ -1,0 +1,1 @@
+Unattended install of AutoIt 3.3.6.1: need 32-bit version but can only get 64-bit version

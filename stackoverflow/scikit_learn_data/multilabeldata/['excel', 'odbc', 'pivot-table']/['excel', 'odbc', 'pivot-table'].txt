@@ -1,0 +1,1 @@
+Map audience-readable-description to cryptic description in ODBC query

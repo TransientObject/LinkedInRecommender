@@ -1,0 +1,1 @@
+Failed provisioning Centos box (vagrant) with Chef

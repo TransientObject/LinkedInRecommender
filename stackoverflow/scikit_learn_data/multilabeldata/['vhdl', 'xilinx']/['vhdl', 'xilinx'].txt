@@ -1,0 +1,1 @@
+Xilinx clears signals in process synthesis

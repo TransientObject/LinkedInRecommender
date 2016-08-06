@@ -1,0 +1,1 @@
+Switch action in Struts 2

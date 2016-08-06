@@ -1,0 +1,1 @@
+DotNetInstaller won&#39;t resume where it left off after reboot

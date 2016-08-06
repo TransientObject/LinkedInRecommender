@@ -1,0 +1,1 @@
+Calling a PHP from another PHP in Joomla

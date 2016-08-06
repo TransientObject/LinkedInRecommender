@@ -1,0 +1,1 @@
+To create a mailbox for an existing user using vbscript

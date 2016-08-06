@@ -1,0 +1,1 @@
+Passing the currently displayed resource&#39;s id back to controller during ajax call

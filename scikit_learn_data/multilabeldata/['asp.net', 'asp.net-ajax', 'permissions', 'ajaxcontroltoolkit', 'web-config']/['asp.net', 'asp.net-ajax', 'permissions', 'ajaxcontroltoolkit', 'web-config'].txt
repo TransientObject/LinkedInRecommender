@@ -1,0 +1,1 @@
+How do you give permissions to ASP.NET AJAX Toolkit in web.config?

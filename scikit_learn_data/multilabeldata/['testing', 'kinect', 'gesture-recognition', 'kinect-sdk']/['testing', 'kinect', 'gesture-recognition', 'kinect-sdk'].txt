@@ -1,0 +1,1 @@
+Test methodology for Hand gesture recognition application in Kinect

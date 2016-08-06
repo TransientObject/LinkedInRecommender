@@ -1,0 +1,1 @@
+Can you use the JD Edwards Update command to change a field that is also part of the WHERE clause?

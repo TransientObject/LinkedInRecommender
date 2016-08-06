@@ -1,0 +1,1 @@
+AngularJS Parent Scope undefined

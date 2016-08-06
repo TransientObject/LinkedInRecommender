@@ -1,0 +1,1 @@
+Trying to do a conditional count in oracle reports builder

@@ -1,0 +1,1 @@
+Sending AT commands to GSM modem through a AC 500 PLC in CoDeSys

@@ -1,0 +1,1 @@
+Expose COM object to an application running in Wine/Linux

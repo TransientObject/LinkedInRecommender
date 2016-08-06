@@ -1,0 +1,1 @@
+How do I get multiple images into GrADS meta file with out doing them one by one

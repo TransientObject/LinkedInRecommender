@@ -1,0 +1,1 @@
+ASP.NET Ajax client-side framework failed to load error but ONLY in Internet Explorer

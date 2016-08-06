@@ -1,0 +1,1 @@
+Regex expression for searching spaced/broken words in OCR PDFs (goo d ni g ht)

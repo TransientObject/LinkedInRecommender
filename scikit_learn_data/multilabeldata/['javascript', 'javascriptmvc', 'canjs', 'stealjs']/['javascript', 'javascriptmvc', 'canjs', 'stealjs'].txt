@@ -1,0 +1,1 @@
+JavascriptMVC failing cookbook examble

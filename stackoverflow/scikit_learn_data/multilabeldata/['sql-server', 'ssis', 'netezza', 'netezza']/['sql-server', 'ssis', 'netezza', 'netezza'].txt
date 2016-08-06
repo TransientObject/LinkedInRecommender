@@ -1,0 +1,1 @@
+Netezza Incremental load from Sql server using SSIS

@@ -1,0 +1,1 @@
+SOC embedded SRAM cache coherency

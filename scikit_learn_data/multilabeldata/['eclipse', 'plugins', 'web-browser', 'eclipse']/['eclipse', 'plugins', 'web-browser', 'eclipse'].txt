@@ -1,0 +1,1 @@
+How to make Eclipse plugin web browser automatically resize web pages to fit the view size?

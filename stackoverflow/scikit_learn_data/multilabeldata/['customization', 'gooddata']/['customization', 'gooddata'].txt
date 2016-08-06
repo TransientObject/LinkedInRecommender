@@ -1,0 +1,1 @@
+Provisioning by stand alone with customization to embedded users

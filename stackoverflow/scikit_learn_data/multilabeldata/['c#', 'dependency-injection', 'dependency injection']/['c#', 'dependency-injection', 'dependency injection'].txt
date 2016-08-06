@@ -1,0 +1,1 @@
+One class implementing multiple interfaces using dependency injection

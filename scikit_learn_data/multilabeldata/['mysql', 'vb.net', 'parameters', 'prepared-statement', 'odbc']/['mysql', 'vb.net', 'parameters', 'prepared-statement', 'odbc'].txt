@@ -1,0 +1,1 @@
+Add Parameter to Prepared Statement For ODBC in VB.net

@@ -1,0 +1,1 @@
+Maven Websphere EJB Project using RAD 7.5

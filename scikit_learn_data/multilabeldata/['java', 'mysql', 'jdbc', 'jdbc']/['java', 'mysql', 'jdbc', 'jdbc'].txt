@@ -1,0 +1,1 @@
+Can I execute mysql queries separated by semicolon in jdbc 5?

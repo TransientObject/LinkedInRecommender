@@ -1,0 +1,1 @@
+gettin error while adding new employee record in open ERP 7 web client error is : Mail delivery failed

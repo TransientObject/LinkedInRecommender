@@ -1,0 +1,1 @@
+Does Netbeans generate a separate CSS file when saving a SASS file?

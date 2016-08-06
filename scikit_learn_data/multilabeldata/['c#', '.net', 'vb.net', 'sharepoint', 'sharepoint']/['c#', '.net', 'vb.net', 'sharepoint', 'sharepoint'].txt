@@ -1,0 +1,1 @@
+Is a sharepoint installation required to edit a sharepoint profile image using c#?

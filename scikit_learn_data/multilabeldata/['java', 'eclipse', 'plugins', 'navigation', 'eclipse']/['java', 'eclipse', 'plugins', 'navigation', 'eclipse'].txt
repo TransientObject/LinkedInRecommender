@@ -1,0 +1,1 @@
+Eclipse plug-in: navigation between Java source code editor and the view created by my plug-in

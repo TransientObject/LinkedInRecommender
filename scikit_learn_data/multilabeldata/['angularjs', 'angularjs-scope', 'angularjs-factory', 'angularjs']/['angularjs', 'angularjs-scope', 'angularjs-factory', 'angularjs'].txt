@@ -1,0 +1,1 @@
+Why i can not get the update value in an AngularJs factory?

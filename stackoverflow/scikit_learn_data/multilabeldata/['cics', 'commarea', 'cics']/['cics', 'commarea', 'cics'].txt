@@ -1,0 +1,1 @@
+Can a CICS Commarea be larger than 32K

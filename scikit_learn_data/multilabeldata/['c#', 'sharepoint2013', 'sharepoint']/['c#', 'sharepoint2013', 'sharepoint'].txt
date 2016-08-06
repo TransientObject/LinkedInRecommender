@@ -1,0 +1,1 @@
+How I could hide the sharepoint list columns at the start of site or at at the first load of list

@@ -1,0 +1,1 @@
+nginx redirect upstream from inner upstream

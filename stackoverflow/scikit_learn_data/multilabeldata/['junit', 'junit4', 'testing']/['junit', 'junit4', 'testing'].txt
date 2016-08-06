@@ -1,0 +1,1 @@
+Can junit be used for Integration Testing and System Testing?If yes,then How can this be done?

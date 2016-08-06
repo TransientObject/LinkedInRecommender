@@ -1,0 +1,1 @@
+Accessing localhost (xampp) from another computer over LAN network - how to?

@@ -1,0 +1,1 @@
+wrapped android-app crashes on resume &quot;no current context&quot;

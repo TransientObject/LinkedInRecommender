@@ -1,0 +1,1 @@
+&quot;String data, right truncation&quot; via ODBC but not via SQL Server Manager with the same query

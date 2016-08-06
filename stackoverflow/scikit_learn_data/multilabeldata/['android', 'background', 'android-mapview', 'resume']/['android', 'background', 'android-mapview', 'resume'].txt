@@ -1,0 +1,1 @@
+Android: MapView not responding after Resume

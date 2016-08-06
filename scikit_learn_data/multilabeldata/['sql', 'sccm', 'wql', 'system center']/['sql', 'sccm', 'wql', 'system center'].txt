@@ -1,0 +1,1 @@
+System Center Reporting - WQL Query To Get Systems With Specific Software And Versions

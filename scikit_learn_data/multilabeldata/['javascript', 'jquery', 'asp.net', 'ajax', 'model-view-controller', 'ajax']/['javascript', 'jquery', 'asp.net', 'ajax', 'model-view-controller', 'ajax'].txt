@@ -1,0 +1,1 @@
+How can I access a ActionLink url parameter value in my ajax call?

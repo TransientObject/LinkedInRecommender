@@ -1,0 +1,1 @@
+Why don&#39;t C++ compilers define operator== and operator!=?

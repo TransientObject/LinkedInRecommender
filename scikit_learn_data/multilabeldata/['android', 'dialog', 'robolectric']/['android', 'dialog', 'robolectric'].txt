@@ -1,0 +1,1 @@
+Null pointer when testing Robolectric Activity that starts with a progress dialog

@@ -1,0 +1,1 @@
+Spring 3.2 Dependency injection via @Resource for primitive types

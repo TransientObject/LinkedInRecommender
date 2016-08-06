@@ -1,0 +1,1 @@
+jQuery: Regex testing a comment node

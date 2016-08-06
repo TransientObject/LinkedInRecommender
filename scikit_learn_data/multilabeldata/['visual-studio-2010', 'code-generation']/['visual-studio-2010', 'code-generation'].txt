@@ -1,0 +1,1 @@
+Upgrade to Visual Studio 2010 has broken code generation - getting DirectoryNotFoundException

@@ -1,0 +1,1 @@
+Set JSTL condition from a JSP scriptlet, then pass to java script

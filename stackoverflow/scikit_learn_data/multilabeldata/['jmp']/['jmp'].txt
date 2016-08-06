@@ -1,0 +1,1 @@
+x64 MOV, JMP instruction crashes program

@@ -1,0 +1,1 @@
+Different kinds of resets in a Chip( SoC )

@@ -1,0 +1,1 @@
+Inner div height won&#39;t expand fill absolutely positioned outer div in IE7 Standards Compliance mode

@@ -1,0 +1,1 @@
+Chef LWRP, Definition, or Cookbook for abstracting creation of Nginx virtual hosts

@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+{% block body %}
+<script type=text/javascript>
+	$("div.pull-right").show();
+</script>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='stack.css')
+ }}">
+
+<div class="front-card" style="background-color:fff;padding:40px;height:auto">
+	<span style="font-size:30px;"> GitHub Repo Recommendations</span><br/><br/><br/><br/>
+	<div id="questions" class="content-padding">
+	{% for repo in repos %}
+		<div class="question-summary" id="{{ key }}">
+			<div class="statscontainer">
+				<div class="stats">
+					<div class="vote">
+						<div class="votes">
+	    					<span class="vote-count-post "><strong> {{ repo['starCount'] }}</strong></span>
+						</div>
+					</div>
+				</div>
+				<div class="views " title="{{ repo['starCount'] }} stars" style="color:#000;">
+					{{ repo['starCount'] }} stars
+				</div>
+			</div>
+			<div class="summary">
+				<h3 style="float:left;width:100%;"><a href="{{ repo['repoURL'] }}" class="question-hyperlink" style="float:left;">{{ repo['repoName'] }}</a></h3>
+				<div class="excerpt" style="float:left;text-align:left;">
+					{{ repo['repoDesc'] }}
+        		</div>
+				
+			</div>
+		</div>
+	{% endfor %}
+	</div>
+</div>
+{% endblock %}

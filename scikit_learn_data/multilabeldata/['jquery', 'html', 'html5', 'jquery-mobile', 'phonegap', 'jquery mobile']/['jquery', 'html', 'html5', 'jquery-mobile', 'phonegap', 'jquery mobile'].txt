@@ -1,0 +1,1 @@
+How can I prevent user from inserting characters in Text Box other than Only numbers can insert jQuery Mobile

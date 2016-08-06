@@ -1,0 +1,1 @@
+How can I check if user has alread logged in into Windows Active Directory

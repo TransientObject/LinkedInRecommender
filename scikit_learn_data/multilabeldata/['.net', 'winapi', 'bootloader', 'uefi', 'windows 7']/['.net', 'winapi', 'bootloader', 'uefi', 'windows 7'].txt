@@ -1,0 +1,1 @@
+How does a disk encryption software modify Windows 7 boot process without changing MBR/VBR/BCD

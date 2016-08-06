@@ -1,0 +1,1 @@
+EmailBackend for sending email through multiple SMTP in Django

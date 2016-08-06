@@ -1,0 +1,1 @@
+Java web application static content management tools / strategies

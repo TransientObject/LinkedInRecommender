@@ -1,0 +1,1 @@
+Does JavaScript obfuscation provide much intellectual property protection for your code?

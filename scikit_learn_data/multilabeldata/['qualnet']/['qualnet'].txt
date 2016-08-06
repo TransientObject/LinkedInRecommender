@@ -1,0 +1,1 @@
+Error compiling Qualnet on Mac: file is not of required architecture

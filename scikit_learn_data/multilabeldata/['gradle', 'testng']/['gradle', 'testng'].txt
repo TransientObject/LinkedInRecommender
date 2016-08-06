@@ -1,0 +1,1 @@
+Gradle can&#39;t run my code with TestNG cumulative suites

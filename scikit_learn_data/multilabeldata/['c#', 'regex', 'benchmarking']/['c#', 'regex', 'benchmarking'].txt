@@ -1,0 +1,1 @@
+When Benchmarking my code, this one regex multiples the runtime of a loop by 4

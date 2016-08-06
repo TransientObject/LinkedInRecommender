@@ -1,0 +1,1 @@
+jquery mobile populate select box from another but clear selection first

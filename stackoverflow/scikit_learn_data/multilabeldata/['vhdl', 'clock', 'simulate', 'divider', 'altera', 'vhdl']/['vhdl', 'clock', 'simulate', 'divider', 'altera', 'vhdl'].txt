@@ -1,0 +1,1 @@
+VHDL clock divider works on board but fails in simulation

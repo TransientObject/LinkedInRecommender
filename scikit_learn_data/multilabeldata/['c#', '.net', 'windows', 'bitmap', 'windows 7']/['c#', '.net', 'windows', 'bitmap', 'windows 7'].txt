@@ -1,0 +1,1 @@
+Bitmap pixel values are different on Windows 7 than they are on XP

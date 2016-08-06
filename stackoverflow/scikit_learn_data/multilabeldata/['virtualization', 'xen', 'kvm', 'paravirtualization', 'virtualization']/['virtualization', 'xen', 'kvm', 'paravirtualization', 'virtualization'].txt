@@ -1,0 +1,1 @@
+Hardware assisted virtualization on centos and 32_bit system

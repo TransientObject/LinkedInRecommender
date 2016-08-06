@@ -1,0 +1,1 @@
+JavascriptMVC binding doesn&#39;t work

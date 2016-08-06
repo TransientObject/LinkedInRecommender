@@ -1,0 +1,1 @@
+Scalability and high availability of a Java standalone application

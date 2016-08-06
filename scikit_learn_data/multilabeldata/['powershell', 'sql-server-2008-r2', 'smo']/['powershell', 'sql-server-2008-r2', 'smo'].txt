@@ -1,0 +1,1 @@
+Why am I seeing different Extended Properties on a table via SMO vs. the SQL Server Provider?

@@ -1,0 +1,1 @@
+Handling Images and file attachments in a Content Management System

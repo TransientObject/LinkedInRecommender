@@ -1,0 +1,1 @@
+C# WPF COM server E0434352 when rendering 3rd-party controls

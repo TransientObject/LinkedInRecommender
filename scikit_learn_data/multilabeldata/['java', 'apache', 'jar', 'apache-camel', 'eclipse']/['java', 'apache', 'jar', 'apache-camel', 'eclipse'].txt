@@ -1,0 +1,1 @@
+Issues running CAMEL JAR file built in windows using Eclipse when run in Linux command line using JAVA or MVN command
